@@ -1,0 +1,46 @@
+{
+  "baseline_initialized": [],
+  "binary_only": [],
+  "checked_at": "2026-10-12T20:26:22.512057+00:00",
+  "comparison_complete": false,
+  "content_review_candidates": [],
+  "discovery_error": null,
+  "discovery_only": [],
+  "discovery_verified": true,
+  "qualifying_changes": [],
+  "schema_version": 1,
+  "unverified": [
+    {
+      "detail": "HTTP 404; catalog still lists this PDF",
+      "guide_key": "og-forticloud-mgmt-analytics",
+      "kind": "verification_failed",
+      "local_path": "09. Central Management/og-forticloud-mgmt-analytics.md",
+      "title": "FortiCloud SaaS Mgmt and Analytics",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticloud-mgmt-analytics.pdf"
+    },
+    {
+      "detail": "HTTP 404; catalog still lists this PDF",
+      "guide_key": "og-fortiedge",
+      "kind": "verification_failed",
+      "local_path": "09. Central Management/og-fortiedge.md",
+      "title": "FortiEdge Cloud",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiedge.pdf"
+    },
+    {
+      "detail": "HTTP 404; catalog still lists this PDF",
+      "guide_key": "og-casb",
+      "kind": "verification_failed",
+      "local_path": "12. SASE/og-casb.md",
+      "title": "FortiCASB and FortiGuard CASB Service",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-casb.pdf"
+    },
+    {
+      "detail": "HTTP 404; catalog still lists this PDF",
+      "guide_key": "og-security-awareness-training",
+      "kind": "verification_failed",
+      "local_path": "13. Training/og-security-awareness-training.md",
+      "title": "Security Awareness and Training & FortiPhish",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-security-awareness-training.pdf"
+    }
+  ]
+}
