@@ -5,13 +5,13 @@ FortiToken
 Fortinet’s multifactor authentication (MFA) solutions are delivered via cloud services
 or appliances. On the appliance side, FortiGate devices offer native MFA features, while
 FortiAuthenticator allows for centralizing MFA management across multiple devices.
-FortiIdentity Cloud (formerly FortiToken Cloud) is a SaaS that is designed to secure
-and manage devices through an intuitive interface that supports provisioning from
+FortiIdentity Cloud (formerly FortiToken Cloud) is a SaaS that is designed to secure and
+manage devices through an intuitive interface that supports provisioning from
 anywhere. It offers organizations the flexibility to deploy robust authentication methods,
 such as mobile and hardware one-time password (OTP) tokens, SMS and email OTP,
 and passwordless (FIDO2) passkeys. Moreover, it supports advanced features like local
-identity provider (IdP) and IdP proxy for seamless SAML and OIDC integration and SCIM
-integration.
+identity provider (IdP) and IdP proxy for seamless SAML and OIDC integration, SCIM
+integration, RADIUS/802.1x and Fortinet SSO.
 NOTE: FortiIdentity Cloud also serves as a local Identity Provider in addition to being
 an MFA provider. Please refer to the separate Ordering Guide for FortiIdentity Cloud for
 more information
@@ -30,7 +30,10 @@ User Self-enrollment and Self-management Via API 
 SECURE APPLICATION ACCESS AND SINGLE SIGN ON (SSO)
 Open ID Connect OIDC provider/OIDC proxy 
 SAML SAML IdP/IdP proxy 
-Fortinet SSO 
+OAuth Service 
+Fortinet SSO  
+RADIUS/802.1x  
+Directory Sync  
 Microsoft Entra ID External Method Provider 
 Easy Application Access with FortiCloud  
 End User Self-Service Portal  FortiAuthenticator
@@ -102,7 +105,7 @@ tions may affect performance results. Nothing herein represents any binding comm
 that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
 such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
 revise this publication without notice, and the most current version of the publication shall be applicable.
-FTK-OG-R18-20260504
+FTK-OG-R19-20260929
 
 
 **Table 3.1**

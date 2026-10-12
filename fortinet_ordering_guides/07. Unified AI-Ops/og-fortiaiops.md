@@ -374,7 +374,7 @@ and FortiExtender.
 Can FortiAIOps interconnect with standalone FortiSwitch?
 No. The FortiAIOps VMs only communicate with FortiGates and monitor all the associated devices such as FortiAP, FortiSwitch,
 and FortiExtender.
-Can FortiAIOps interconnect with FortiEdge cloud or FortiGate Cloud?
+Can FortiAIOps interconnect with FortiManagement Cloud?
 No. The FortiAIOps VMs only communicate with FortiGates and monitor all the associated devices such as FortiAP, FortiSwitch,
 and FortiExtender.
 www.fortinet.com
@@ -384,4 +384,4 @@ tions may affect performance results. Nothing herein represents any binding comm
 that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
 such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
 revise this publication without notice, and the most current version of the publication shall be applicable.
-FAIOPS-OG-R12-20260420
+FAIOPS-OG-R13-20260909

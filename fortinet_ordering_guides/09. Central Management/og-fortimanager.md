@@ -71,7 +71,7 @@ Order Information Overview
 200G 410G 1000G 3100G 3750G CLOUD VM
 Default Devices/VDOMs 30 150 1,000 4,000 10,000 10
 Max Devices/VDOMs with add-on license 8,000 100,000 10,000 100,000
-Default ADOMs 30 150 1,000 4000 10,000 53/Add-On
+Default ADOMs 30 150 1,000 4000 10,000 5
 Max ADOMs with add-on license 8,000 12,000 1,200
 ADDITIONAL SERVICES
 FortiAI Assistant Subscription1       
@@ -84,7 +84,6 @@ HOW TO BUY Hardware Bundle Hardware Bundle Hardware Bundle Hardware Bundle Hardw
 Subscription Subscription
 1 FortiAI Assistant Subscription requires FortiManager 7.6
 2 FortiAI Assistant Top-Up License requires a valid FortiAI Assistant Subscription
-3 FortiManager VM subscription license includes five (5) ADOMs
 Order Information
 FORTIMANAGER 200G 410G 1000G 3100G 3750G
 Hardware FMG-200G FMG-410G FMG-1000G FMG-3100G FMG -3750G
@@ -195,6 +194,7 @@ Microsoft Hyper-V 
 Nutanix AHV 
 Oracle Private Cloud 
 OpenSource Xen 
+Red Hat OpenShift 
 Amazon AWS 
 Microsoft 
 Azure 
@@ -248,21 +248,6 @@ License tokens.
 |  |  |  |
 
 FortiManager Ordering Guide
-NSE Training and Certification
-FCP - FortiManager Administrator Training and Certification
-This course covers the fundamentals of using FortiManager for centralized network administration of many FortiGate devices.
-Through interactive labs, participants will explore deployment strategies, including single or multiple ADOMs, device registration,
-policy packages, shared objects, installing configuration changes, provisioning FortiManager as a local FortiGuard distribution
-server, and troubleshooting essential features for day-to-day operations after FortiManager deployment.
-Course Description
-For prerequisites, agenda topics, and learning objectives, visit:
-https://training.fortinet.com/local/staticpage/view.php?page=library_fortimanager-administrator
-Training Offering
-For training SKUs, purchasing, and delivery options, visit:
-https://training.fortinet.com/local/staticpage/view.php?page=purchasing_process
-5
-
-FortiManager Ordering Guide
 Order Lifecycle: FortiManager VM Perpetual License
 New Order
 Example: managing 100 devices/Virtual Domains
@@ -300,10 +285,10 @@ Renewal for 1x100-devices/VDOMs + 2x10-devices/VDOMs:
 • FC2-10-FMGVS-258-01-DD (x1)
 • FC1-10-FMGVS-258-01-DD (x2)
 Use co-term when the first renewal occurs. This aligns all contracts to the same expiration date.
-6
+5
 
 
-**Table 6.1**
+**Table 5.1**
 
 |  |  |  |
 | --- | --- | --- |
@@ -311,7 +296,44 @@ Use co-term when the first renewal occurs. This aligns all contracts to the same
 |  |  |  |
 
 FortiManager Ordering Guide
+NSE Training and Certification
+FCP - FortiManager Administrator Training and Certification
+This course covers the fundamentals of using FortiManager for centralized network administration of many FortiGate devices.
+Through interactive labs, participants will explore deployment strategies, including single or multiple ADOMs, device registration,
+policy packages, shared objects, installing configuration changes, provisioning FortiManager as a local FortiGuard distribution
+server, and troubleshooting essential features for day-to-day operations after FortiManager deployment.
+Course Description
+For prerequisites, agenda topics, and learning objectives, visit:
+https://training.fortinet.com/local/staticpage/view.php?page=library_fortimanager-administrator
+Training Offering
+For training SKUs, purchasing, and delivery options, visit:
+https://training.fortinet.com/local/staticpage/view.php?page=purchasing_process
+6
+
+FortiManager Ordering Guide
 Frequently asked questions
+FortiAI:
+• How do I order FortiAI?
+• FortiAI requires a FortiManager release 7.6 and up. Order the FortiAI SKU matching your FortiManager platform type (see
+above FortiAI ordering information under each FortiManager platform type), or,
+• Use FortiFlex points to purchase the FortiAI service, available for FortiManager VM-Subscription.
+• What should I do when AI usage reaches its limit?
+• Order FortiAI top-up license: unique SKU FC1-10-AITMG-1089-02-DD for all hardware appliances, VMs, and FMG-Cloud
+requires a valid FortiAI Assistance subscription and FortiManager release 7.6.
+FortiManager Cloud vs. FortiManagement Cloud — Which One Do I Order?
+Fortinet offers two cloud-delivered management platforms, built on different resource models for different scales of operation:
+• FortiManager Cloud provisions each customer a dedicated instance in the Fortinet cloud, delivering the same enterprise-
+grade centralized management as on-premises FortiManager — with AI-assisted operations for automated provisioning, SD-
+WAN orchestration, and advanced troubleshooting. It’s built for organizations that need enterprise-scale device management
+with dedicated cloud resources and advanced policy automation.
+• FortiManagement Cloud is a SaaS platform where customers share underlying cloud infrastructure. It’s built for smaller
+customers who want a simple, fast-to-deploy management and analytics experience without the overhead of a dedicated
+cloud instance.
+Quick guidance:
+• If the customer needs Enterprise-grade, large-scale device management with a dedicated cloud instance and AI-assisted
+operations ->order FortiManager Cloud
+• If the customer needs a simple, fast-to-deploy management experience on shared cloud infrastructure -> order
+FortiManagement Cloud
 Where did the FortiManager Cloud individual subscription SKUs go and how do I order FortiManager Cloud?
 FortiGate subscription SKU FC-[model code]-179-02-DD have been EOL/EOO; customers can purchase the following multi-
 device subscription SKUs:
@@ -333,6 +355,29 @@ FMG-VM-10-UG Upgrade license for adding 10 Fortinet devices/Virtual domains; all
 FMG-VM-100-UG Upgrade license for adding 100 Fortinet devices/Virtual domains; allows for total of 5 GB/Day of Logs.
 FMG-VM-1000-UG Upgrade license for adding 1000 Fortinet devices/Virtual domains; allows for total of 10 GB/Day of Logs.
 FMG-VM-5000-UG Upgrade license for adding 5000 Fortinet devices/Virtual domains; allows for total of 25 GB/Day of Logs.
+7
+
+
+**Table 7.1**
+
+| SKU | DESCRIPTION |
+| --- | --- |
+
+
+**Table 7.2**
+
+| SKU | DESCRIPTION |
+| --- | --- |
+
+
+**Table 7.3**
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+FortiManager Ordering Guide
 Can I replace my FortiManager VM with a FMG‐VM Subscription license with FortiCare?
 To change from the FortiManager Perpetual VM to the FMG VM Subscription, customers can purchase a new subscription
 license and install on their chosen supported platform, and then migrate their data from the old perpetual VM to the new
@@ -355,45 +400,6 @@ On the FortiManager 3000 Series and above, the stackable device upgrade SKU can 
 adding up to 100,000 Devices/VDOMs maximum.
 UNIT SKU DESCRIPTION
 FortiManager-Device-Upgrade FMG-DEV-100-UG FortiManager device upgrade license for adding 100 Fortinet devices/VDOMs (3000 series and above ‐ hardware only)
-7
-
-
-**Table 7.1**
-
-| SKU | DESCRIPTION |
-| --- | --- |
-
-
-**Table 7.2**
-
-| SKU | DESCRIPTION |
-| --- | --- |
-
-
-**Table 7.3**
-
-| UNIT | SKU | DESCRIPTION |
-| --- | --- | --- |
-
-
-**Table 7.4**
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-
-FortiManager Ordering Guide
-How many ADOMs are supported with my FortiManager?
-Additional information about ADOM defaults and maximums for FortiManager Hardware and VMs can be found on
-docs.fortinet.com in the release notes under Appendix B:
-https://docs.fortinet.com/document/fortimanager/8.0.0/release-notes/432411/appendix-b-default-and-maximum-number-of-
-adoms-supported
-Why is BPS (Best Practice Service) no longer available?
-The Best Practice Service was discontinued, as it was not being used by many Fortinet customers.
-Is there a replacement service for BPS or recommended alternative?
-No, there is no replacement for this service, however customers can purchase Forticare Premium or FortiCare Elite contracts if
-they require an increased level of technical support.
 How do I order High Availability for FortiManager?
 To add FortiManager High Availability, you can purchase 2 of the same FortiManager.
 Each FortiManager in the HA cluster should also:
@@ -415,9 +421,34 @@ Not included in the license count:
 • Hidden devices are not counted.
 • FortiManager-VMs do not include FortiGate devices with FMGC entitlements in the license count.
 • FortiAP, FortiSwitch, and FortiExtender are not included in the license count.
-FortiAI Top-Up License:
-• Unique SKU FC1-10-AITMG-1089-02-DD for all hardware appliances, VMs, and FMG-Cloud requires a valid FortiAI Assistance
-subscription and FortiManager release 7.6
+8
+
+
+**Table 8.1**
+
+| UNIT | SKU | DESCRIPTION |
+| --- | --- | --- |
+
+
+**Table 8.2**
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+FortiManager Ordering Guide
+How many ADOMs are supported with my FortiManager?
+Additional information about ADOM defaults and maximums for FortiManager Hardware and VMs can be found on docs.fortinet.
+com in the release notes under Appendix B:
+https://docs.fortinet.com/document/fortimanager/8.0.0/release-notes/432411/appendix-b-default-and-maximum-number-of-
+adoms-supported
+How can I add ADOMs now that the FortiManager-VM Subscription ADOM Add-On License has been discontinued?
+The FortiManager VM-S now has the number of ADOMs equal to the number of supported devices. No separate ADOM add-on
+is required to expand ADOM capacity.
+FortiManager upgrade to 7.4.12, 7.6.7, 8.0.1 preserves existing entitlements after upgrading, as follows:
+• If ADOM count is lower than device count, the ADOM count is automatically raised to match the number of supported devices.
+• If ADOM count is higher than device count, keep the device count entitlement and retains the ADOM count.
 www.fortinet.com
 Copyright © 2026 Fortinet, Inc. All rights reserved. Fortinet®, FortiGate®, FortiCare® and FortiGuard®, and certain other marks are registered trademarks of Fortinet, Inc., and other Fortinet names herein may also be registered and/or common law trademarks of Fortinet. All other product or
 company names may be trademarks of their respective owners. Performance and other metrics contained herein were attained in internal lab tests under ideal conditions, and actual performance and other results may vary. Network variables, different network environments and other condi-
@@ -425,4 +456,4 @@ tions may affect performance results. Nothing herein represents any binding comm
 that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
 such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
 revise this publication without notice, and the most current version of the publication shall be applicable.
-FMG-OG-R29-20260626
+FMG-OG-R30-20261007
