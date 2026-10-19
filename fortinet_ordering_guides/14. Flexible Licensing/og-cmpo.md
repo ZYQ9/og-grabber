@@ -45,6 +45,7 @@ FortiNDR FortiNDR Cloud Annual Contract AWS
 FortiCASB FortiCASB (PAYG) GCP
 FortiSIEM FortiSIEM Cloud (PAYG) AWS
 FortiMail WS FortiMail Workspace Security for Email and Collaboration Apps (PAYG) AWS
+FortiSASE FortiSASE AWS GCP
 VM PAYG
 FortiGate Next-Generation Firewall AWS AZURE GCP AliCLoud
 FortiGate Next-Generation Firewall (ARM64/Graviton) AWS
@@ -81,7 +82,6 @@ Fortinet FortiADC-VM Application Delivery Controller (PAYG, 10Gbps) AWS GCP
 FortiRecorder-VM Fortinet FortiRecorder-VM Network Video Security AWS
 FortiWeb-VM Fortinet FortiWeb Web Application Firewall WAF (PAYG) AWS AZURE GCP
 FortiMail-VM FortiMail Secure Email Gateway - Enterprise ATP (PAYG) AWS AZURE
-FortiSandbox-VM Fortinet FortiSandbox Zero-Day Threat Protection AWS AZURE
 2
 
 
@@ -101,6 +101,7 @@ FortiSandbox-VM Fortinet FortiSandbox Zero-Day Threat Protection AWS AZURE
 
 Cloud Marketplace Private Offers Ordering Guide
 PRODUCT SERVICE CLOUD MARKETPLACE
+FortiSandbox-VM Fortinet FortiSandbox Zero-Day Threat Protection AWS AZURE
 CONSULTING
 Custom Engagement Fortinet Network and Application Security Consulting Service AWS AZURE GCP
 FortiWeb-VM FortiWeb-VM Consulting Bundle AWS AZURE
@@ -127,7 +128,6 @@ OCI AliCloud
 
 | PRODUCT | SERVICE | CLOUD MARKETPLACE |
 | --- | --- | --- |
-| CONSULTING |  |  |
 
 
 **Table 3.2**
@@ -175,4 +175,4 @@ tions may affect performance results. Nothing herein represents any binding comm
 that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
 such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
 revise this publication without notice, and the most current version of the publication shall be applicable.
-CMPO-OG-R13-20260708
+CMPO-OG-R14-20260928

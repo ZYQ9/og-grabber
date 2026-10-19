@@ -194,6 +194,9 @@ variant Service Bundle N/A 02-DD N/A 02-DD N/A N/A
 Built-in Hardware FG-40F-3G4G FG-50G-5G N/A N/A N/A N/A
 3G/4G/5G LTE Enterprise FC-10-F40FG-809- FC-10-F50G5-809-
 variant Service Bundle 02-DD 02-DD N/A N/A N/A N/A
+FC-10-MGT1G-131- FC-10-MGT2G-131- FC-10-MGT2G-131- FC-10-MGT3G-131- FC-10-MGT4G-131- FC-10-MGT5G-131-
+Cloud Management License
+02-DD 02-DD 02-DD 02-DD 02-DD 02-DD
 1. IPsec VPN performance test uses AES256-SHA256.
 2. Firewall performance test uses 512 byte UDP.
 3. Replace X with the region code.
@@ -220,6 +223,9 @@ Service Bundle 809-02-DD 809-02-DD 809-02-DD
 DC power and Hardware N/A FG-1801F-DC FG-2601F-DC FG-3001F-DC N/A N/A N/A N/A
 Built-in Storage Enterprise FC-10-D18F1- FC-10-FD261- FC-10-FD3K1-
 variant Service Bundle N/A 809-02-DD 809-02-DD 809-02-DD N/A N/A N/A N/A
+FC-10-MGT7G- FC-10-MGT7G- FC-10-MGT7G- FC-10-MGT8G- FC-10-MGT8G- FC-10-MGT8G-
+Cloud Management License N/A N/A
+131-02-DD 131-02-DD 131-02-DD 131-02-DD 131-02-DD 131-02-DD
 1. IPsec VPN performance test uses AES256-SHA256.
 2. Firewall performance test uses 512 byte UDP.
 3. Base 7121F includes 2xFPM-7620F and 2xFIM-7921F modules
@@ -681,13 +687,13 @@ NETWORK AND APPLICATION SECURITY
 FORTIAP
 Most Commonly Deployed As Wi-Fi AP
 USE CASES
-Cloud Management License 
+Cloud Management License Optional
 Presence Analytics License Optional
 FAP-231K
 FAP-234G
 Top Selling FAP-432G
 FAP-441K
-FortiPresence-VM
+FortiPresence-Cloud
 Order Information
 SOLUTION BUNDLE FAP-231K FAP-234G FAP-432G FAP-441K
 Access Point Type WiFi 7 Tri Radio WiFi 6E Tri Radio - Outdoor WiFi 6E Tri Radio WiFi 7 Quad radio
@@ -698,10 +704,8 @@ Ethernet ports (RJ45) 1 (100M/1G/2.5G/5.0G) 2 (100M/1G/2.5G/5.0G/10G)
 FortiAP
 Base Product FAP-231K-suffix1 FAP-234G-suffix1 FAP-432G-suffix1 FAP-441K-suffix1
 Support FC-10-P231K-247-02-DD FC-10-P234G-247-02-DD FC-10-P432G-247-02-DD FC-10-FP41K-247-02-DD
-FortiEdge Cloud Management License FC-10-90AP1-639-02-DD FC-10-90AP1-639-02-DD FC-10-90AP1-639-02-DD FC-10-90AP1-639-02-DD
+Cloud Management License FC-10-MGT0A-639-02-DD FC-10-MGT0A-639-02-DD FC-10-MGT0A-639-02-DD FC-10-MGT0A-639-02-DD
 FortiPresence Cloud Analytics License FC-10-FPCLD-169-02-DD FC-10-FPCLD-169-02-DD FC-10-FPCLD-169-02-DD FC-10-FPCLD-169-02-DD
-SOLUTION BUNDLE FORTICLOUD PRESENCE ANALYTICS
-FortiPresence Service subscription FC-10-FPCLD-169-02-DD
 1. Refer to the latest pricelist for the list of available suffixes.
 13
 
@@ -727,12 +731,6 @@ FortiPresence Service subscription FC-10-FPCLD-169-02-DD
 
 **Table 13.4**
 
-| SOLUTION BUNDLE | FORTICLOUD PRESENCE ANALYTICS |
-| --- | --- |
-
-
-**Table 13.5**
-
 |  |  |  |
 | --- | --- | --- |
 |  |  |  |
@@ -754,12 +752,12 @@ FORTISWITCH
 Most Commonly Deployed As Managed and secure switch
 USE CASES
 Advanced Switching License1 
-Presence Analytics License Optional
+Cloud Management License Optional
 FSW-124G
 FSW-148F
 Top Selling
 FSW-248E
-FSW-448E
+FSW-348G
 1. The Advanced Switching license enables dynamic routing protocols in standalone mode and does not apply in FortiLink mode.
 Order Information
 SOLUTION BUNDLE FSW-124G FSW-148F FSW-248E FS-348G
@@ -773,7 +771,7 @@ FortiSwitch Base Product FS-124G FS-148F N/A FS-348G
 Support FC-10-S24GN-247-02-DD FC-10-148FN-247-02-DD N/A FC-10-348GN-247-02-DD
 Base Product - FPOE Variant FS-124G-FPOE FS-148F-FPOE FS-248E-FPOE FS-348G-FPOE
 Support - FPOE Variant FC-10-S24GF-247-02-DD FC-10-148FF-247-02-DD FC-10-W248E-247-02-DD FC-10-348GF-247-02-DD
-Cloud Management License FC-10-FSW00-628-02-DD FC-10-FSW00-628-02-DD FC-10-FSW10-628-02-DD FC-10-FSW10-628-02-DD
+Cloud Management License FC-10-MGT2S-628-02-DD FC-10-MGT3S-628-02-DD FC-10-MGT4S-628-02-DD FC-10-MGT4S-628-02-DD
 Advanced Switching License1 N/A N/A FS-SW-LIC-200 FS-SW-LIC-300
 Other models and variants are available.
 1. The Advanced Switching license enables dynamic routing protocols in standalone mode and does not apply in FortiLink mode.
@@ -820,7 +818,7 @@ The following shows offerings information for FortiExtender for MSSP:
 NETWORK AND APPLICATION SECURITY
 FORTIEXTENDER
 PKI (SD-WAN) 
-FortiExtender Cloud Management Optional
+Cloud Management License Optional
 FEX-101G
 Top Selling FEX-202F AM/EA
 FEX-511G
@@ -829,7 +827,7 @@ SOLUTION BUNDLE FEX-101F-EA FEX-211G FEX-511G
 Supported technology LTE CAT-6 LTE CAT-12 5G
 Regional Compatibility Global Carriers Global Carriers Global Carriers
 FortiExtender Base Product FEX-101G FEX-211G FEX-511G
-FortiExtender Cloud Management FC-10-FEXC0-583-02 FC-10-FEXC0-583-02-DD FC-10-FEXC2-583-02-DD
+Cloud Management License FC-10-MGT1E-583-02-DD FC-10-MGT2E-583-02-DD FC-10-MGT2E-583-02-DD
 Support FC-10-X101G-247-02-DD FC-10-X211G-247-02-DD FC-10-FX51G-247-02-DD
 15
 
@@ -1047,7 +1045,7 @@ tions may affect performance results. Nothing herein represents any binding comm
 that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
 such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
 revise this publication without notice, and the most current version of the publication shall be applicable.
-MSSP-OG-R13-20260713
+MSSP-OG-R14-20260908
 
 
 **Table 18.1**

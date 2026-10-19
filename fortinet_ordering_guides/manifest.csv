@@ -1,5 +1,5 @@
 category,title,url,local_path,status,detail
-12. SASE,FortiCASB and FortiGuard CASB Service,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-casb.pdf,12. SASE/og-casb.md,failed,HTTP 404; catalog still lists this PDF
+12. SASE,FortiCASB and FortiGuard CASB Service,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-casb.pdf,12. SASE/og-casb.md,failed,Catalog absent and HTTP 404; awaiting a second live check.
 04. Unified AppSec and Cloud,Cloud Consulting Services,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-cloud-consult-svc.pdf,04. Unified AppSec and Cloud/og-cloud-consult-svc.md,verified,PDF/content baseline retained
 01. Unified OS,Cloud NGFW,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-cloud-next-generation-firewall.pdf,01. Unified OS/og-cloud-next-generation-firewall.md,verified,PDF/content baseline retained
 14. Flexible Licensing,Cloud Marketplace Private Offers,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-cmpo.pdf,14. Flexible Licensing/og-cmpo.md,verified,PDF/content baseline retained
@@ -18,13 +18,13 @@ category,title,url,local_path,status,detail
 19. Other Products and Solutions,FortiCamera & FortiRecorder,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticam.pdf,19. Other Products and Solutions/og-forticam.md,verified,PDF/content baseline retained
 15. Advanced Support,FortiCare,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticare.pdf,15. Advanced Support/og-forticare.md,verified,PDF/content baseline retained
 04. Unified AppSec and Cloud,FortiCASB,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticasb.pdf,04. Unified AppSec and Cloud/og-forticasb.md,verified,PDF/content baseline retained
-03. Unified Endpoint,FortiClient,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticlient.pdf,03. Unified Endpoint/og-forticlient.md,verified,PDF/content baseline retained
-09. Central Management,FortiCloud SaaS Mgmt and Analytics,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticloud-mgmt-analytics.pdf,09. Central Management/og-forticloud-mgmt-analytics.md,failed,HTTP 404; catalog still lists this PDF
+03. Unified Endpoint,FortiClient and EMS,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticlient.pdf,03. Unified Endpoint/og-forticlient.md,verified,PDF/content baseline retained
+09. Central Management,FortiCloud SaaS Mgmt and Analytics,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticloud-mgmt-analytics.pdf,09. Central Management/og-forticloud-mgmt-analytics.md,failed,Catalog absent and HTTP 404; awaiting a second live check.
 04. Unified AppSec and Cloud,FortiCNAPP,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticnapp.pdf,04. Unified AppSec and Cloud/og-forticnapp.md,verified,PDF/content baseline retained
 19. Other Products and Solutions,FortiDDoS,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiddos.pdf,19. Other Products and Solutions/og-fortiddos.md,verified,PDF/content baseline retained
 10. Advanced Threat Detection,FortiDeceptor,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortideceptor.pdf,10. Advanced Threat Detection/og-fortideceptor.md,verified,PDF/content baseline retained
 03. Unified Endpoint,FortiDLP,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortidlp.pdf,03. Unified Endpoint/og-fortidlp.md,verified,PDF/content baseline retained
-09. Central Management,FortiEdge Cloud,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiedge.pdf,09. Central Management/og-fortiedge.md,failed,HTTP 404; catalog still lists this PDF
+09. Central Management,FortiEdge Cloud,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiedge.pdf,09. Central Management/og-fortiedge.md,failed,Catalog absent and HTTP 404; awaiting a second live check.
 03. Unified Endpoint,FortiEDR/FortiXDR,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiedr.pdf,03. Unified Endpoint/og-fortiedr.md,verified,PDF/content baseline retained
 03. Unified Endpoint,FortiEndpoint,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiendpoint.pdf,03. Unified Endpoint/og-fortiendpoint.md,verified,PDF/content baseline retained
 02. LAN Security,FortiExtender,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiextender.pdf,02. LAN Security/og-fortiextender.md,verified,PDF/content baseline retained
@@ -32,6 +32,7 @@ category,title,url,local_path,status,detail
 11. Identity and Access,FortiIdentity Cloud,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiindentity.pdf,11. Identity and Access/og-fortiindentity.md,verified,PDF/content baseline retained
 05. Unified WorkSpace Security,FortiMail,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortimail.pdf,05. Unified WorkSpace Security/og-fortimail.md,verified,PDF/content baseline retained
 05. Unified WorkSpace Security,FortiMail Workspace Security,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortimail-wss.pdf,05. Unified WorkSpace Security/og-fortimail-wss.md,verified,PDF/content baseline retained
+06. Unified SecOps Platform,FortiManagement Cloud,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortimanagement.pdf,06. Unified SecOps Platform/og-fortimanagement.md,verified,PDF/content baseline retained
 09. Central Management,FortiManager,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortimanager.pdf,09. Central Management/og-fortimanager.md,verified,PDF/content baseline retained
 07. Unified AI-Ops,FortiMonitor,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortimonitor.pdf,07. Unified AI-Ops/og-fortimonitor.md,verified,PDF/content baseline retained
 02. LAN Security,FortiNAC,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortinac.pdf,02. LAN Security/og-fortinac.md,verified,PDF/content baseline retained
@@ -41,6 +42,7 @@ category,title,url,local_path,status,detail
 08. Unified Attack Surface Management,FortiRecon,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortirecon.pdf,08. Unified Attack Surface Management/og-fortirecon.md,verified,PDF/content baseline retained
 10. Advanced Threat Detection,FortiSandbox,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortisandbox.pdf,10. Advanced Threat Detection/og-fortisandbox.md,verified,PDF/content baseline retained
 12. SASE,FortiSASE,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortisase.pdf,12. SASE/og-fortisase.md,verified,PDF/content baseline retained
+13. Training,FortiSAT,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortisat.pdf,13. Training/og-fortisat.md,verified,PDF/content baseline retained
 06. Unified SecOps Platform,FortiSIEM,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortisiem.pdf,06. Unified SecOps Platform/og-fortisiem.md,verified,PDF/content baseline retained
 06. Unified SecOps Platform,FortiSOAR,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortisoar.pdf,06. Unified SecOps Platform/og-fortisoar.md,verified,PDF/content baseline retained
 06. Unified SecOps Platform,FortiSOC,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortisoc.pdf,06. Unified SecOps Platform/og-fortisoc.md,verified,PDF/content baseline retained
@@ -60,4 +62,3 @@ category,title,url,local_path,status,detail
 18. Vertical - Others,Telco,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-telco.pdf,18. Vertical - Others/og-telco.md,verified,PDF/content baseline retained
 02. LAN Security,FortiAP and Wireless Offerings,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-wireless.pdf,02. LAN Security/og-wireless.md,verified,PDF/content baseline retained
 11. Identity and Access,ZTNA,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-ztna.pdf,11. Identity and Access/og-ztna.md,verified,PDF/content baseline retained
-,Security Awareness and Training & FortiPhish,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-security-awareness-training.pdf,13. Training/og-security-awareness-training.md,failed,HTTP 404; catalog still lists this PDF

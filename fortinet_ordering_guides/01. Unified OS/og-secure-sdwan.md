@@ -191,57 +191,44 @@ SD-WAN Service (Add-on)
 
 Secure SD-WAN Ordering Guide
 HUBS
-APPLIANCES 400G 700G 900G 1000F 1800F 2600F
-IPsec VPN Throughput1 55 Gbps 55 Gbps 55 Gbps 55 Gbps 55 Gbps 55 Gbps
-Max IPsec Tunnels1 50,000 50,000 50,000 100,000 100,000 100,000
-Threat Protection2 13 Gbps 26 Gbps 30 Gbps 13 Gbps 15 Gbps 25 Gbps
+APPLIANCES 400G 700G 900G 1800F 2600F
+IPsec VPN Throughput1 55 Gbps 55 Gbps 55 Gbps 55 Gbps 55 Gbps
+Max IPsec Tunnels1 50,000 50,000 50,000 100,000 100,000
+Threat Protection2 13 Gbps 26 Gbps 30 Gbps 15 Gbps 25 Gbps
 SSL Inspection Throughput3
-11.5 Gbps 14 Gbps 16.7 Gbps 10 Gbps 12 Gbps 20 Gbps
+11.5 Gbps 14 Gbps 16.7 Gbps 12 Gbps 20 Gbps
 (IPS, avg. HTTPS)
 CONNECTIVITY
-100GE QSFP28   
-40GE QSFP+   
-25GE SFP28      
-10GE SFP+      
-1GE SFP/RJ45      
+100GE QSFP28  
+40GE QSFP+  
+25GE SFP28     
+10GE SFP+     
+1GE SFP/RJ45     
 HARDWARE VARIANTS
-Built-in Storage      
+Built-in Storage     
 Bypass
-Redundant PSUs      
+Redundant PSUs     
 DC Power  
 HUB BUNDLES
 FORTIGATE
-UNIFIED THREAT 400G 700G 900G 1000F 1800F 2600F
+UNIFIED THREAT 400G 700G 900G 1800F 2600F
 PROTECTION
-Base FG-400G-BDL-950-DD FG-700G-BDL-950-DD FG-900G-BDL-950-DD FG-1000F-BDL-950-DD FG-1800F-BDL-950-DD FG-2600F-BDL-950-DD
-Storage Variant FG-401G-BDL-950-DD FG-701G-BDL-950-DD FG-901G-BDL-950-DD FG-1001F-BDL-950-DD FG-1801F-BDL-950-DD FG-2601F-BDL-950-DD
+Base FG-400G-BDL-950-DD FG-700G-BDL-950-DD FG-900G-BDL-950-DD FG-1800F-BDL-950-DD FG-2600F-BDL-950-DD
+Storage Variant FG-401G-BDL-950-DD FG-701G-BDL-950-DD FG-901G-BDL-950-DD FG-1801F-BDL-950-DD FG-2601F-BDL-950-DD
 Bypass
-FG-1800F-DC-BDL- FG-2600F-DC-BDL-
-DC Power Variant
-950-DD 950-DD
-FG-1801F-DC-BDL- FG-2601F-DC-BDL-
-Storage + DC Power Variant
-950-DD 950-DD
+DC Power Variant FG-1800F-DC-BDL-950-DD FG-2600F-DC-BDL-950-DD
+Storage + DC Power Variant FG-1801F-DC-BDL-950-DD FG-2601F-DC-BDL-950-DD
 RENEWAL
-FC-10-FG4H0-950- FC-10-G7H0G-950- FC-10-0900G-950- FC-10-F1K0F-950- FC-10-F18HF-950- FC-10-F26HF-950-
-Base
-02-DD 02-DD 02-DD 02-DD 02-DD 02-DD
-FC-10-FG4H1-950- FC-10-G7H1G-950- FC-10-0901G-950- FC-10-F1K1F-950- FC-10-F18F1-950- FC-10-F26F1-950-
-Storage Variant
-02-DD 02-DD 02-DD 02-DD 02-DD 02-DD
+Base FC-10-FG4H0-950-02-DD FC-10-G7H0G-950-02-DD FC-10-0900G-950-02-DD FC-10-F18HF-950-02-DD FC-10-F26HF-950-02-DD
+Storage Variant FC-10-FG4H1-950-02-DD FC-10-G7H1G-950-02-DD FC-10-0901G-950-02-DD FC-10-F18F1-950-02-DD FC-10-F26F1-950-02-DD
 Bypass
-FC-10-D18HF-950- FC-10-FD26F-950-
-DC Power
-02-DD 02-DD
-FC-10-D18F1-950- FC-10-FD261-950-
-Storage + DC Power Variant
-02-DD 02-DD
+DC Power FC-10-D18HF-950-02-DD FC-10-FD26F-950-02-DD
+Storage + DC Power Variant FC-10-D18F1-950-02-DD FC-10-FD261-950-02-DD
 SERVICES
-SD-WAN Service Bundle FC-10-FG4H0-1329- FC-10-G7H0G-1329- FC-10-FG9H0-1329- FC-10-F1K0F-1329- FC-10-F18HF-1329- FC-10-F26HF-1329-
-(including FortiCare) 02-DD 02-DD 02-DD 02-DD 02-DD 02-DD
-FC-10-FG4H0-1389- FC-10-G7H0G-1389- FC-10-FG9H0-1389- FC-10-F1K0F-1389- FC-10-F18HF-1389- FC-10-F26HF-1389-
-SD-WAN Service (Add-on)
-02-DD 02-DD 02-DD 02-DD 02-DD 02-DD
+SD-WAN Service Bundle
+FC-10-FG4H0-1329-02-DD FC-10-G7H0G-1329-02-DD FC-10-FG9H0-1329-02-DD FC-10-F18HF-1329-02-DD FC-10-F26HF-1329-02-DD
+(including FortiCare)
+SD-WAN Service (Add-on) FC-10-FG4H0-1389-02-DD FC-10-G7H0G-1389-02-DD FC-10-FG9H0-1389-02-DD FC-10-F18HF-1389-02-DD FC-10-F26HF-1389-02-DD
 LICENSES
 HyperScale LIC-FG18F-HYPSC LIC-FG26F-HYPSC
 Carrier FCR-EUPG
@@ -250,48 +237,48 @@ Carrier FCR-EUPG
 
 **Table 4.1**
 
-| HUBS |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| APPLIANCES | 400G | 700G | 900G | 1000F | 1800F | 2600F |
-| IPsec VPN Throughput1 | 55 Gbps | 55 Gbps | 55 Gbps | 55 Gbps | 55 Gbps | 55 Gbps |
-| Max IPsec Tunnels1 | 50,000 | 50,000 | 50,000 | 100,000 | 100,000 | 100,000 |
-| Threat Protection2 | 13 Gbps | 26 Gbps | 30 Gbps | 13 Gbps | 15 Gbps | 25 Gbps |
-| SSL Inspection Throughput3 (IPS, avg. HTTPS) | 11.5 Gbps | 14 Gbps | 16.7 Gbps | 10 Gbps | 12 Gbps | 20 Gbps |
-| CONNECTIVITY |  |  |  |  |  |  |
-| 100GE QSFP28 |  |  |  |  |  |  |
-| 40GE QSFP+ |  |  |  |  |  |  |
-| 25GE SFP28 |  |  |  |  |  |  |
-| 10GE SFP+ |  |  |  |  |  |  |
-| 1GE SFP/RJ45 |  |  |  |  |  |  |
-| HARDWARE VARIANTS |  |  |  |  |  |  |
-| Built-in Storage |  |  |  |  |  |  |
-| Bypass |  |  |  |  |  |  |
-| Redundant PSUs |  |  |  |  |  |  |
-| DC Power |  |  |  |  |  |  |
+| HUBS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| APPLIANCES | 400G | 700G | 900G | 1800F | 2600F |
+| IPsec VPN Throughput1 | 55 Gbps | 55 Gbps | 55 Gbps | 55 Gbps | 55 Gbps |
+| Max IPsec Tunnels1 | 50,000 | 50,000 | 50,000 | 100,000 | 100,000 |
+| Threat Protection2 | 13 Gbps | 26 Gbps | 30 Gbps | 15 Gbps | 25 Gbps |
+| SSL Inspection Throughput3 (IPS, avg. HTTPS) | 11.5 Gbps | 14 Gbps | 16.7 Gbps | 12 Gbps | 20 Gbps |
+| CONNECTIVITY |  |  |  |  |  |
+| 100GE QSFP28 |  |  |  |  |  |
+| 40GE QSFP+ |  |  |  |  |  |
+| 25GE SFP28 |  |  |  |  |  |
+| 10GE SFP+ |  |  |  |  |  |
+| 1GE SFP/RJ45 |  |  |  |  |  |
+| HARDWARE VARIANTS |  |  |  |  |  |
+| Built-in Storage |  |  |  |  |  |
+| Bypass |  |  |  |  |  |
+| Redundant PSUs |  |  |  |  |  |
+| DC Power |  |  |  |  |  |
 
 
 **Table 4.2**
 
-| HUB BUNDLES |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| FORTIGATE UNIFIED THREAT PROTECTION | 400G | 700G | 900G | 1000F | 1800F | 2600F |
-| Base | FG-400G-BDL-950-DD | FG-700G-BDL-950-DD | FG-900G-BDL-950-DD | FG-1000F-BDL-950-DD | FG-1800F-BDL-950-DD | FG-2600F-BDL-950-DD |
-| Storage Variant | FG-401G-BDL-950-DD | FG-701G-BDL-950-DD | FG-901G-BDL-950-DD | FG-1001F-BDL-950-DD | FG-1801F-BDL-950-DD | FG-2601F-BDL-950-DD |
-| Bypass |  |  |  |  |  |  |
-| DC Power Variant |  |  |  |  | FG-1800F-DC-BDL- 950-DD | FG-2600F-DC-BDL- 950-DD |
-| Storage + DC Power Variant |  |  |  |  | FG-1801F-DC-BDL- 950-DD | FG-2601F-DC-BDL- 950-DD |
-| RENEWAL |  |  |  |  |  |  |
-| Base | FC-10-FG4H0-950- 02-DD | FC-10-G7H0G-950- 02-DD | FC-10-0900G-950- 02-DD | FC-10-F1K0F-950- 02-DD | FC-10-F18HF-950- 02-DD | FC-10-F26HF-950- 02-DD |
-| Storage Variant | FC-10-FG4H1-950- 02-DD | FC-10-G7H1G-950- 02-DD | FC-10-0901G-950- 02-DD | FC-10-F1K1F-950- 02-DD | FC-10-F18F1-950- 02-DD | FC-10-F26F1-950- 02-DD |
-| Bypass |  |  |  |  |  |  |
-| DC Power |  |  |  |  | FC-10-D18HF-950- 02-DD | FC-10-FD26F-950- 02-DD |
-| Storage + DC Power Variant |  |  |  |  | FC-10-D18F1-950- 02-DD | FC-10-FD261-950- 02-DD |
-| SERVICES |  |  |  |  |  |  |
-| SD-WAN Service Bundle (including FortiCare) | FC-10-FG4H0-1329- 02-DD | FC-10-G7H0G-1329- 02-DD | FC-10-FG9H0-1329- 02-DD | FC-10-F1K0F-1329- 02-DD | FC-10-F18HF-1329- 02-DD | FC-10-F26HF-1329- 02-DD |
-| SD-WAN Service (Add-on) | FC-10-FG4H0-1389- 02-DD | FC-10-G7H0G-1389- 02-DD | FC-10-FG9H0-1389- 02-DD | FC-10-F1K0F-1389- 02-DD | FC-10-F18HF-1389- 02-DD | FC-10-F26HF-1389- 02-DD |
-| LICENSES |  |  |  |  |  |  |
-| HyperScale |  |  |  |  | LIC-FG18F-HYPSC | LIC-FG26F-HYPSC |
-| Carrier |  |  |  |  |  | FCR-EUPG |
+| HUB BUNDLES |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| FORTIGATE UNIFIED THREAT PROTECTION | 400G | 700G | 900G | 1800F | 2600F |
+| Base | FG-400G-BDL-950-DD | FG-700G-BDL-950-DD | FG-900G-BDL-950-DD | FG-1800F-BDL-950-DD | FG-2600F-BDL-950-DD |
+| Storage Variant | FG-401G-BDL-950-DD | FG-701G-BDL-950-DD | FG-901G-BDL-950-DD | FG-1801F-BDL-950-DD | FG-2601F-BDL-950-DD |
+| Bypass |  |  |  |  |  |
+| DC Power Variant |  |  |  | FG-1800F-DC-BDL-950-DD | FG-2600F-DC-BDL-950-DD |
+| Storage + DC Power Variant |  |  |  | FG-1801F-DC-BDL-950-DD | FG-2601F-DC-BDL-950-DD |
+| RENEWAL |  |  |  |  |  |
+| Base | FC-10-FG4H0-950-02-DD | FC-10-G7H0G-950-02-DD | FC-10-0900G-950-02-DD | FC-10-F18HF-950-02-DD | FC-10-F26HF-950-02-DD |
+| Storage Variant | FC-10-FG4H1-950-02-DD | FC-10-G7H1G-950-02-DD | FC-10-0901G-950-02-DD | FC-10-F18F1-950-02-DD | FC-10-F26F1-950-02-DD |
+| Bypass |  |  |  |  |  |
+| DC Power |  |  |  | FC-10-D18HF-950-02-DD | FC-10-FD26F-950-02-DD |
+| Storage + DC Power Variant |  |  |  | FC-10-D18F1-950-02-DD | FC-10-FD261-950-02-DD |
+| SERVICES |  |  |  |  |  |
+| SD-WAN Service Bundle (including FortiCare) | FC-10-FG4H0-1329-02-DD | FC-10-G7H0G-1329-02-DD | FC-10-FG9H0-1329-02-DD | FC-10-F18HF-1329-02-DD | FC-10-F26HF-1329-02-DD |
+| SD-WAN Service (Add-on) | FC-10-FG4H0-1389-02-DD | FC-10-G7H0G-1389-02-DD | FC-10-FG9H0-1389-02-DD | FC-10-F18HF-1389-02-DD | FC-10-F26HF-1389-02-DD |
+| LICENSES |  |  |  |  |  |
+| HyperScale |  |  |  | LIC-FG18F-HYPSC | LIC-FG26F-HYPSC |
+| Carrier |  |  |  |  | FCR-EUPG |
 
 
 **Table 4.3**
@@ -826,4 +813,4 @@ tions may affect performance results. Nothing herein represents any binding comm
 that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
 such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
 revise this publication without notice, and the most current version of the publication shall be applicable.
-SDWAN-OG-R31-20260804
+SDWAN-OG-R32-20261007
