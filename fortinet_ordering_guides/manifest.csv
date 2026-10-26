@@ -1,5 +1,5 @@
 category,title,url,local_path,status,detail
-12. SASE,FortiCASB and FortiGuard CASB Service,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-casb.pdf,12. SASE/og-casb.md,failed,Catalog absent and HTTP 404; awaiting a second live check.
+12. SASE,FortiCASB and FortiGuard CASB Service,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-casb.pdf,12. SASE/og-casb.md,removed,PDF/content baseline retained
 04. Unified AppSec and Cloud,Cloud Consulting Services,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-cloud-consult-svc.pdf,04. Unified AppSec and Cloud/og-cloud-consult-svc.md,verified,PDF/content baseline retained
 01. Unified OS,Cloud NGFW,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-cloud-next-generation-firewall.pdf,01. Unified OS/og-cloud-next-generation-firewall.md,verified,PDF/content baseline retained
 14. Flexible Licensing,Cloud Marketplace Private Offers,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-cmpo.pdf,14. Flexible Licensing/og-cmpo.md,verified,PDF/content baseline retained
@@ -19,12 +19,12 @@ category,title,url,local_path,status,detail
 15. Advanced Support,FortiCare,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticare.pdf,15. Advanced Support/og-forticare.md,verified,PDF/content baseline retained
 04. Unified AppSec and Cloud,FortiCASB,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticasb.pdf,04. Unified AppSec and Cloud/og-forticasb.md,verified,PDF/content baseline retained
 03. Unified Endpoint,FortiClient and EMS,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticlient.pdf,03. Unified Endpoint/og-forticlient.md,verified,PDF/content baseline retained
-09. Central Management,FortiCloud SaaS Mgmt and Analytics,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticloud-mgmt-analytics.pdf,09. Central Management/og-forticloud-mgmt-analytics.md,failed,Catalog absent and HTTP 404; awaiting a second live check.
+09. Central Management,FortiCloud SaaS Mgmt and Analytics,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticloud-mgmt-analytics.pdf,09. Central Management/og-forticloud-mgmt-analytics.md,removed,PDF/content baseline retained
 04. Unified AppSec and Cloud,FortiCNAPP,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-forticnapp.pdf,04. Unified AppSec and Cloud/og-forticnapp.md,verified,PDF/content baseline retained
 19. Other Products and Solutions,FortiDDoS,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiddos.pdf,19. Other Products and Solutions/og-fortiddos.md,verified,PDF/content baseline retained
 10. Advanced Threat Detection,FortiDeceptor,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortideceptor.pdf,10. Advanced Threat Detection/og-fortideceptor.md,verified,PDF/content baseline retained
 03. Unified Endpoint,FortiDLP,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortidlp.pdf,03. Unified Endpoint/og-fortidlp.md,verified,PDF/content baseline retained
-09. Central Management,FortiEdge Cloud,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiedge.pdf,09. Central Management/og-fortiedge.md,failed,Catalog absent and HTTP 404; awaiting a second live check.
+09. Central Management,FortiEdge Cloud,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiedge.pdf,09. Central Management/og-fortiedge.md,removed,PDF/content baseline retained
 03. Unified Endpoint,FortiEDR/FortiXDR,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiedr.pdf,03. Unified Endpoint/og-fortiedr.md,verified,PDF/content baseline retained
 03. Unified Endpoint,FortiEndpoint,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiendpoint.pdf,03. Unified Endpoint/og-fortiendpoint.md,verified,PDF/content baseline retained
 02. LAN Security,FortiExtender,https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiextender.pdf,02. LAN Security/og-fortiextender.md,verified,PDF/content baseline retained

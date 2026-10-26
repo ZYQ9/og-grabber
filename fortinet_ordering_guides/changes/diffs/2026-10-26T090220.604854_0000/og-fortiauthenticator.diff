@@ -1,0 +1,450 @@
+--- previous
++++ current
+@@ -2,17 +2,16 @@
+ Ordering Guide
+ FortiAuthenticator
+ Available in
+-Hardware Virtual BYOL using FortiAuthenticator
+-Appliance Machine public cloud Cloud
++Hardware Virtual BYOL using
++Appliance Machine public cloud
+ providers
+ FortiAuthenticator provides key services for creating effective security policies by
+ ensuring that only authorized individuals can access sensitive networks and data. It
+ helps transparently identify network users and enforce identity-driven policies within a
+ Fortinet-enabled enterprise network. FortiAuthenticator offers seamless, secure multi-
+-factor/OTP and FIDO passwordless authentication for various access protocols across
+-an organization. It is available as a hardware appliance, a virtual machine for private and
+-public cloud deployments, or as FortiAuthenticator-Cloud, which is part of a SaaS-based
+-cloud service.
++factor/OTP and FIDO passwordless authentication for various access protocols across an
++organization. It is available as a hardware appliance and a virtual machine for private and
++public cloud deployments.
+ Key features and capabilities of FortiAuthenticator include:
+ • Authentication: RADIUS authentication (including 802.1x, Dynamic VLAN, Change
+ of Authorization), TACACS+ (Admin Authentication, Command Authorization), FSSO
+@@ -29,55 +28,52 @@
+ deployments.
+ • Load Balancing: Supported for Appliance and VM deployments.
+ FortiAuthenticator Ordering Guide
+-FORTIAUTHENTICATOR APPLIANCE
+-FUNCTIONAL AREA FEATURE FORTIAUTHENTICATOR CLOUD
+-AND VM
+-VPN Authentication  
+-Admin Authentication  
+-RADIUS 802.1X  
+-Dynamic VLAN  
+-Change of Authorization  
+-Admin Authentication  N/A
++FUNCTIONAL AREA FEATURE FORTIAUTHENTICATOR APPLIANCE AND VM
++VPN Authentication 
++Admin Authentication 
++RADIUS 802.1X 
++Dynamic VLAN 
++Change of Authorization 
++Admin Authentication 
+ TACACS+
+-Command Authorization  N/A
+-FortiGate polling, Collector Agent support  
+-FSSO Syslog, RSSO, WSSO, etc  
+-FortiClient SSO Mobility Agent1  
+-SAML IdP, IdP Proxy  
+-SSLVPN  
+-Single Sign-On Google, AWS, Azure and O365 integration  
+-OAuth2/OIDC Provider  
+-SCIM Provisioning (client and server)  
+-FortiToken Mobile (FTM)2  Add-on purchase
+-FortiToken (FTK)  Add-on purchase
+-SMS3 Add-on purchase (or 3rd party gateway) Add-on purchase (or 3rd party gateway)
+-Email3  
++Command Authorization 
++FortiGate polling, Collector Agent support 
++FSSO Syslog, RSSO, WSSO, etc 
++FortiClient SSO Mobility Agent1 
++SAML IdP, IdP Proxy 
++SSLVPN 
++Single Sign-On Google, AWS, Azure and O365 integration 
++OAuth2/OIDC Provider 
++SCIM Provisioning (client and server) 
++FortiToken Mobile (FTM)2 
++FortiToken (FTK) 
++SMS3 Add-on purchase (or 3rd party gateway)
++Email3 
+ MFA
+-FIDO Passwordless4  
+-Adaptive Authentication  
+-Windows Agent  
+-OWA Agent  
+-Captive Portal  
+-Portals Self-Registration and Guest  
+-Social Login  
+-Server certificates  
+-User certificates  
++FIDO Passwordless4 
++Adaptive Authentication 
++Windows Agent 
++OWA Agent 
++Captive Portal 
++Portals Self-Registration and Guest 
++Social Login 
++Server certificates 
++User certificates 
+ PKI Certificate Management
+-VPNs, SCEP, ZTNA  
+-CMPv2  
+-Active Passive5  N/A
++VPNs, SCEP, ZTNA 
++CMPv2 
++Active Passive5 
+ HA
+-Load Balancing5  N/A
+-1 FortiClient SSO agent license purchased separately. See section “Other FortiAuthenticator Add-Ons” on page 5
++Load Balancing5 
++1 FortiClient SSO agent license purchased separately. See section “Other FortiAuthenticator Add-Ons” on page 4
+ 2 Software and hardware tokens are purchased separately
+ 3 FortiGuard SMS license needed (or use third-party SMS gateway). If purchase FTM tokens, get 2 x No of Tokens FortiGuard SMS credits (must be used within one year)
+ 4 FIDO FTK400 tokens are purchased separately
+ 5 Separate license needed for each FortiAuthenticator VM
+-Existing FortiAuthenticator Cloud customers are entitled to MFA from FortiIdentity Cloud until their subscription expires, then additional MFA purchases are required.
+ 2
+ **Table 2.1**
+-| FUNCTIONAL AREA | FEATURE | FORTIAUTHENTICATOR APPLIANCE AND VM | FORTIAUTHENTICATOR CLOUD |
+-| --- | --- | --- | --- |
++| FUNCTIONAL AREA | FEATURE | FORTIAUTHENTICATOR APPLIANCE AND VM |
++| --- | --- | --- |
+ **Table 2.2**
+ | | | |
+ | --- | --- | --- |
+@@ -123,11 +119,13 @@
+ 300F/G 1500 3500
+ 800F/G 8000 18000
+ 3000F/G 40000 240000 (3000F), 1M (3000G)
+-FortiAuthenticator Carrier/Advance License
++FortiAuthenticator Carrier/Advanced License
+ SHORT DESCRIPTION SKU DESCRIPTION
+-FortiAuthenticator Advance / Carrier License - applicable to FAC VMS and FAC-3000F/G only.
++FortiAuthenticator Advance / Carrier License. Provides unlimited RADIUS and TACACs clients.
+ FortiAuthenticator Carrier License FC-10-ACTCR-1343-02-DD
+-Providing unlimited RADIUS and TACACs clients.
++Available as add-on for FortiAuthenticator VM subscriptions and FAC-3000F/G appliances only.
++HA: A separate carrier add-on SKU is required for each FAC node in an HA deployment. However, with the HA-DR license (available Q4 2026 for VMs only), only the primary node requires the
++carrier add-on license, which is inherited by all secondary nodes.
+ 3
+ **Table 3.1**
+ | FORTIAUTHENTICATOR HARDWARE (F-SERIES MODELS) | | |
+@@ -187,40 +185,6 @@
+ For new orders, FAC-VM user licenses are stackable but support contracts are not. For existing users and support upgrade, please request a co-term quotation to your Fortinet authorized
+ partner.
+ FAC-VM HA nodes require separate licensing.
+-FORTIAUTHENTICATOR CLOUD
+-PRODUCT SKU DESCRIPTION
+-SUBSCRIPTION (PER USER LICENSE)
+-FortiAuthenticator-Cloud User Subscription including FortiCare Premium Support for 100-499
+-FC2-10-ACCLD-511-02-DD
+-Users.
+-FortiAuthenticator-Cloud User Subscription including FortiCare Premium Support for 500-1,999
+-FC3-10-ACCLD-511-02-DD
+-Users.
+-FortiAuthenticator Cloud
+-FortiAuthenticator-Cloud User Subscription including FortiCare Premium Support for 2,000-
+-FC4-10-ACCLD-511-02-DD
+-9,999 Users.
+-FortiAuthenticator-Cloud User Subscription including FortiCare Premium Support for 10,000+
+-FC5-10-ACCLD-511-02-DD
+-Users.
+-*DD specifies the number of years e.g. 1, 3 or 5 years of support
+-4
+-**Table 4.1**
+-| FORTIAUTHENTICATOR VIRTUAL MACHINE | | |
+-| --- | --- | --- |
+-| PRODUCT | SKU | DESCRIPTION |
+-| SUBSCRIPTION (PER USER LICENSE) | | |
+-**Table 4.2**
+-| FORTIAUTHENTICATOR CLOUD | | |
+-| --- | --- | --- |
+-| PRODUCT | SKU | DESCRIPTION |
+-| SUBSCRIPTION (PER USER LICENSE) | | |
+-**Table 4.3**
+-| | | |
+-| --- | --- | --- |
+-| | | |
+-| | | |
+-FortiAuthenticator Ordering Guide
+ Other FortiAuthenticator Add-Ons
+ FortiClient SSO mobility agent license enables FortiClient Single-Sign-On (SSO) to communicate to FortiAuthenticator on
+ username/IP changes, so that they can be used in FortiGate user group based policy if required. These SKUs are applicable to
+@@ -236,25 +200,30 @@
+ FortiAuthenticator FortiClient SSO Mobility License for unlimited FortiClient connections (does not
+ FCC-FACUNL-LIC
+ include FortiClient Endpoint Control License for FortiGate)
+-Stackable license. FAC HA nodes require separate licensing.
+-For additional FortiTokens (hardware, FIDO, or FortiToken Mobile) and FortiSMS add-ons to FortiAuthenticator or
+-FortiAuthenticator Cloud please refer to FortiToken order guide here: https://www.fortinet.com/content/dam/fortinet/assets/
+-data-sheets/og-fortitoken.pdf
++Stackable license.
++HA: A separate SSO add-on license is required for each FAC node in an HA deployment. However, with the HA-DR license (available Q4 2026 for VMs only), only the primary node requires the
++SSO add-on license, which is inherited by all secondary nodes.
++For additional FortiTokens (hardware, FIDO, or FortiToken Mobile) and FortiSMS add-ons to FortiAuthenticator, refer to
++FortiToken order guide here: https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortitoken.pdf
+ FORTIGUARD SMS
+ PRODUCT SKU DESCRIPTION
+ FortiSMS SMS-ELIC-100 License for 100 SMS text messages.
+ License is stackable. Customer has option to use a third-party SMS gateway (Bring Your Own SMS). SMS SKUs for FortiIdentity Cloud cannot be applied to FortiAuthenticator SMS.
+-FAC HA nodes require separate licensing.
+-5
+-**Table 5.1**
++4
++**Table 4.1**
++| FORTIAUTHENTICATOR VIRTUAL MACHINE | | |
++| --- | --- | --- |
++| PRODUCT | SKU | DESCRIPTION |
++| SUBSCRIPTION (PER USER LICENSE) | | |
++**Table 4.2**
+ | FORTICLIENT SSO MOBILITY AGENT | | |
+ | --- | --- | --- |
+ | PRODUCT | SKU | DESCRIPTION |
+-**Table 5.2**
++**Table 4.3**
+ | FORTIGUARD SMS | | |
+ | --- | --- | --- |
+ | PRODUCT | SKU | DESCRIPTION |
+-**Table 5.3**
++**Table 4.4**
+ | | | |
+ | --- | --- | --- |
+ | | | |
+@@ -289,8 +258,8 @@
+ Server Certificates # of licensed users /10
+ TACACS+ Services # of licensed users /10
+ TACACS+ Service Attribute-value Pairs # of services x 255
+-6
+-**Table 6.1**
++5
++**Table 5.1**
+ | MAXIMUM VALUES FOR | VM | 300F/G | 800F/G | 3000F/G |
+ | --- | --- | --- | --- | --- |
+ | Users (local and remote) | 100 (up to 1 million+ w/ upgrade license) | | | |
+@@ -309,7 +278,7 @@
+ | Server Certificates | # of licensed users /10 | | | |
+ | TACACS+ Services | # of licensed users /10 | | | |
+ | TACACS+ Service Attribute-value Pairs | # of services x 255 | | | |
+-**Table 6.2**
++**Table 5.2**
+ | | | |
+ | --- | --- | --- |
+ | | | |
+@@ -367,8 +336,8 @@
+ FortiClient SSO Mobility FCC-FAC2K-LIC as users move across networks (Wi-Fi, LAN, VPN), enabling identity-
+ +1 Additional SSO license for HA node based policies and seamless authentication without repeated login
+ prompts.
+-7
+-**Table 7.1**
++6
++**Table 6.1**
+ | ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
+ | --- | --- | --- | --- | --- |
+ | FortiAuthenticator Appliance | FAC-300F | | | |
+@@ -379,7 +348,7 @@
+ | | FTM-ELIC-200 | | | |
+ | SMS Credits | SMS-ELIC-100 | | | |
+ | FortiClient SSO Mobility | FCC-FAC2K-LIC | | | |
+-**Table 7.2**
++**Table 6.2**
+ | | | |
+ | --- | --- | --- |
+ | | | |
+@@ -422,73 +391,6 @@
+ Additional SSO license for HA security policies and seamless authentication as users move between
+ +1
+ instance Wi-Fi, LAN, and VPN networks.
+-Bill of Materials – If FAC Cloud option is preferred
+-ITEM SKU QUANTITY DESCRIPTION WHY IS IT REQUIRED?
+-Provides the FortiAuthenticator identity and authentication platform
+-FortiAuthenticator Cloud as a fully managed cloud service. Enables LDAP directory integration,
+-FortiAuthenticator Cloud
+-FC2-10-ACCLD-511-02-12 1000 subscription supporting up to 1,000 RADIUS authentication for VPN and Wi-Fi, and MFA enforcement
+-Subscription
+-users without requiring on-premises infrastructure. Sized to support ~750
+-users with headroom for growth.
+-FortiAuthenticator Cloud includes built-in service redundancy and
+-Built-in high availability and
+-FortiAuthenticator Cloud HA / availability managed by Fortinet. This ensures authentication services
+-Included 1000 redundancy within the Fortinet
+-Service Redundancy remain operational without requiring customers to deploy and
+-cloud platform
+-maintain secondary infrastructure.
+-Provides firmware updates, security patches, and 24x7 technical
+-Support and maintenance included
+-FortiCare Premium Support Included 1 support. Ensures the authentication infrastructure remains supported
+-with the cloud subscription
+-and secure throughout the deployment lifecycle.
+-Provides physical MFA tokens for higher-risk users such as
+-administrators, executives, or users without smartphones. Hardware
+-FortiToken Hardware Tokens FortiToken-200B 1 500 pack hardware OTP tokens
+-tokens provide a secure authentication method independent of mobile
+-devices.
+-FTM-ELIC-100 1 Enables mobile-based MFA using the FortiToken Mobile application.
+-FortiToken Mobile Software 300 FortiToken Mobile software
+-This provides scalable and cost-effective MFA for most users without
+-Tokens tokens
+-FTM-ELIC-200 1 requiring dedicated hardware tokens.
+-Provides a fallback authentication mechanism in cases where users
+-SMS Credits SMS-ELIC-100 1 100 SMS OTP credits cannot access their hardware or mobile token. Allows administrators
+-to provide temporary authentication access to maintain productivity.
+-Enables transparent Single Sign-On and roaming-aware user-to-IP
+-mapping between endpoints and FortiGate. This allows identity-based
+-FortiClient SSO Mobility FCC-FAC2K-LIC 1 2,000 endpoint SSO license
+-security policies and seamless authentication as users move between
+-Wi-Fi, LAN, and VPN networks.
+-8
+-**Table 8.1**
+-| ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
+-| --- | --- | --- | --- | --- |
+-| FortiAuthenticator VM Subscription | FC2-10-ACVMS-1268-02-12 | | | |
+-| FortiAuthenticator VM Subscription (Secondary for HA) | FC2-10-ACVMS-1268-02-12 | | | |
+-| FortiToken Hardware Tokens | FortiToken-200B | | | |
+-| FortiToken Mobile Software Tokens | FTM-ELIC-100 | | | |
+-| | FTM-ELIC-200 | | | |
+-| SMS Credits | SMS-ELIC-100 | | | |
+-| FortiClient SSO Mobility | FCC-FAC2K-LIC | | | |
+-**Table 8.2**
+-| ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
+-| --- | --- | --- | --- | --- |
+-| FortiAuthenticator Cloud Subscription | FC2-10-ACCLD-511-02-12 | | | |
+-| FortiAuthenticator Cloud HA / Service Redundancy | Included | | | |
+-| FortiCare Premium Support | Included | | | |
+-| FortiToken Hardware Tokens | FortiToken-200B | | | |
+-| FortiToken Mobile Software Tokens | FTM-ELIC-100 | | | |
+-| | FTM-ELIC-200 | | | |
+-| SMS Credits | SMS-ELIC-100 | | | |
+-| FortiClient SSO Mobility | FCC-FAC2K-LIC | | | |
+-**Table 8.3**
+-| | | |
+-| --- | --- | --- |
+-| | | |
+-| | | |
+-FortiAuthenticator Ordering Guide
+ BOM Example 2 — Mid-Sized Organization VM Subscription with HA
+ Example organization size
+ • Employees: ~6,000
+@@ -524,8 +426,18 @@
+ SMS Credits SMS-ELIC-100 3
+ a backup to FortiToken Mobile SMS OTP allows administrators to maintain access continuity for VPN
+ and remote access users.
+-9
+-**Table 9.1**
++7
++**Table 7.1**
++| ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
++| --- | --- | --- | --- | --- |
++| FortiAuthenticator VM Subscription | FC2-10-ACVMS-1268-02-12 | | | |
++| FortiAuthenticator VM Subscription (Secondary for HA) | FC2-10-ACVMS-1268-02-12 | | | |
++| FortiToken Hardware Tokens | FortiToken-200B | | | |
++| FortiToken Mobile Software Tokens | FTM-ELIC-100 | | | |
++| | FTM-ELIC-200 | | | |
++| SMS Credits | SMS-ELIC-100 | | | |
++| FortiClient SSO Mobility | FCC-FAC2K-LIC | | | |
++**Table 7.2**
+ | ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
+ | --- | --- | --- | --- | --- |
+ | FortiAuthenticator VM Subscription | FC2-10-ACVMS-1268-02-12 | | | |
+@@ -534,58 +446,13 @@
+ | | FTM-ELIC-2000 | | | |
+ | | FTM-ELIC-200 | | | |
+ | SMS Credits | SMS-ELIC-100 | | | |
+-**Table 9.2**
+-| | | |
+-| --- | --- | --- |
+-| | | |
+-| | | |
+-FortiAuthenticator Ordering Guide
+-BOM Example 3 — Cloud-First IAM
+-Example organization size
+-• Employees: ~3,500
+-• Users in FortiAuthenticator Cloud: ~3,500
+-• Endpoints: ~5,000 to 7,000
+-Use case
+-• Organization preferring SaaS-delivered identity services with no on-premises infrastructure.
+-• 1 year commitment
+-• Do not have own DC, so prefer Fortinet hosted cloud solution
+-Bill of Materials
+-ITEM SKU QUANTITY DESCRIPTION WHY IS IT REQUIRED?
+-Provides the FortiAuthenticator identity and authentication platform as
+-a fully managed SaaS service hosted by Fortinet. Delivers centralized
+-FortiAuthenticator Cloud Cloud IAM subscription 2,000– authentication, MFA enforcement, and integration with VPN, Wi-Fi
+-FC4-10-ACCLD-511-02-12 3500
+-Subscription 9,999 users RADIUS, and SAML-based authentication for cloud applications
+-without requiring the organization to deploy or manage on-premises
+-infrastructure.
+-Enables mobile-based MFA using the FortiToken Mobile application.
+-Provides strong second-factor authentication for VPN access, cloud
+-FortiToken Mobile Software 4000 Mobile MFA tokens covering
+-FTM-ELIC-2000 2 application authentication, and other protected services. Mobile
+-Tokens all users
+-tokens eliminate the need to distribute and manage hardware tokens
+-while supporting the entire user population.
+-Enables endpoint-based identity awareness and transparent Single
+-Sign-On between endpoints and FortiGate. This allows the security
+-infrastructure to maintain continuous user-to-device mappings,
+-FortiClient SSO Mobility FCC-FAC10K-LIC Optional 10,000 endpoint SSO license
+-enabling identity-based policies and seamless access as users move
+-between networks. This is optional if device-aware identity tracking
+-is required.
+-10
+-**Table 10.1**
+-| ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
+-| --- | --- | --- | --- | --- |
+-| FortiAuthenticator Cloud Subscription | FC4-10-ACCLD-511-02-12 | | | |
+-| FortiToken Mobile Software Tokens | FTM-ELIC-2000 | | | |
+-| FortiClient SSO Mobility | FCC-FAC10K-LIC | | | |
+-**Table 10.2**
+-| | | |
+-| --- | --- | --- |
+-| | | |
+-| | | |
+-FortiAuthenticator Ordering Guide
+-BOM Example 4 — Mid-Size Enterprise MFA + SSO (VM vs Hardware + HA Options)
++**Table 7.3**
++| | | |
++| --- | --- | --- |
++| | | |
++| | | |
++FortiAuthenticator Ordering Guide
++BOM Example 3 — Mid-Size Enterprise MFA + SSO (VM vs Hardware + HA Options)
+ Example organization size
+ • Employees: ~5,700
+ • Users in FortiAuthenticator: ~5,700
+@@ -646,15 +513,15 @@
+ appliance.
+ FortiCare Premium Support FC-10-AC8HF-247-02
+ +1 Support for HA appliance Each appliance in the HA cluster requires its own support contract.
+-11
+-**Table 11.1**
++8
++**Table 8.1**
+ | ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
+ | --- | --- | --- | --- | --- |
+ | FortiAuthenticator VM Subscription | FC2-10-ACVMS-1268-02-12 | | | |
+ | FortiToken Mobile Software Tokens | FTM-ELIC-2000 | | | |
+ | | FTM-ELIC-1000 | | | |
+ | FortiClient SSO Mobility | FCC-FAC10K-LIC | | | |
+-**Table 11.2**
++**Table 8.2**
+ | ITEM | SKU | QUANTITY | DESCRIPTION | WHY IS IT REQUIRED? |
+ | --- | --- | --- | --- | --- |
+ | FortiAuthenticator Appliance | FAC-800F | | | |
+@@ -662,7 +529,7 @@
+ | | FTM-ELIC-1000 | | | |
+ | FortiClient SSO Mobility | FCC-FAC10K-LIC | | | |
+ | FortiCare Premium Support | FC-10-AC8HF-247-02 | | | |
+-**Table 11.3**
++**Table 8.3**
+ | | | |
+ | --- | --- | --- |
+ | | | |
+@@ -691,4 +558,4 @@
+ that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
+ such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
+ revise this publication without notice, and the most current version of the publication shall be applicable.
+-FAC-OG-R23-20260806
++FAC-OG-R24-20261015

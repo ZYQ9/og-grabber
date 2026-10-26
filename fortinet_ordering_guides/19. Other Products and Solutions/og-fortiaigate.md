@@ -26,7 +26,7 @@ FortiAIGate Ordering Guide
 KEY CAPABILITIES
 Multi-Layered AI Protection
 FortiAIGate employs multiple defense layers to detect and prevent:
-• Direct and indirect prompt injections attacks
+• Direct and indirect prompt injection attacks
 • Direct and indirect jailbreaking attempts
 • Sensitive data exposure
 • Data leakage in LLM responses
@@ -117,13 +117,13 @@ Note: FortiAIGate subscriptions are renewed annually. Advanced and Enterprise bu
 support expanded feature sets and environments.
 FORTIAIGATE-LLM GATEWAY
 RESOURCES VALUE
-Max GPUs Unrestricted
+Max GPUs *Unrestricted
 Max CPUs Unrestricted
 Max RAM Unrestricted
 Query Per Second Throughput Unrestricted
 Max LLM Sessions Unrestricted
 Max LLM Users Unrestricted
-Max Worker Nodes Unlimited (Each Worker Node Requires a Separate License)
+Max Worker Nodes Unlimited (Each GPU on Each Worker Node Requires a Separate License)
 DEPLOYMENT OPTION VALUE
 Form Factor Container
 Environment Kubernetes
@@ -131,7 +131,7 @@ SECURITY SERVICES BUNDLE
 Prompt Injection/Jailbreaking Detection Standard
 Data Leak Prevention Standard
 Toxicity Detection Standard
-Custom Blacklist/Whitelist Rules Standard
+Rule-Based Policy Enforcement Standard
 MCP Tool Scanning Standard
 CORE SERVICES BUNDLE
 Secure LLM Proxy Standard
@@ -142,6 +142,7 @@ Intelligent Routing Standard
 Cost Tracking Standard
 ADDITIONAL SERVICES BUNDLE
 24x7 Support Included
+*See Ordering Information
 4
 
 
@@ -186,9 +187,9 @@ ADDITIONAL SERVICES BUNDLE
 FortiAIGate Ordering Guide
 ORDER INFORMATION
 LLM GATEWAY SKU DESCRIPTION
-Standard subscription license of FortiAIGate-LLM Gateway for
-Standard Subscription FC-10-AIGCN-1316-02-DD
-1 worker node. Includes Premium FortiCare Support.
+Standard subscription license of FortiAIGate for 1 GPU
+Standard Subscription FC-10-AIGCN-1316-02-DD (Stackable) on 1 worker node. Includes premium FortiCare
+Support.
 www.fortinet.com
 Copyright © 2026 Fortinet, Inc. All rights reserved. Fortinet®, FortiGate®, FortiCare® and FortiGuard®, and certain other marks are registered trademarks of Fortinet, Inc., and other Fortinet names herein may also be registered and/or common law trademarks of Fortinet. All other product
 or company names may be trademarks of their respective owners. Performance and other metrics contained herein were attained in internal lab tests under ideal conditions, and actual performance and other results may vary. Network variables, different network environments and other
@@ -196,7 +197,7 @@ conditions may affect performance results. Nothing herein represents any binding
 purchaser that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute
 clarity, any such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer,
 or otherwise revise this publication without notice, and the most current version of the publication shall be applicable.
-FAIG-OG-R07-20260706
+FAIG-OG-R08-20261023
 
 
 **Table 5.1**

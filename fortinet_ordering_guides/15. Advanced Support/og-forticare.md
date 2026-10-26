@@ -24,7 +24,7 @@ technical and business components. Services include lifecycle management and pla
 proactive reviews, quarterly business reviews (QBR), best practice adoption, and service points
 for a customized experience.
 CUSTOMER SUCCESS
-PRODUCT SUPPORT Advanced Support Professional Services
+PRODUCT SUPPORT ADVANCED SUPPORT PROFESSIONAL SERVICES
 Proactive business and technical
 Focus Area Technical support Onboarding and rapid adoption
 alignment
@@ -41,17 +41,22 @@ when the customer needs delivery assurance. With inventory held in-country for n
 day delivery and locally for four-hour delivery, customers can feel confident that parts arrive on
 schedule.
 • Secure RMA (SRMA): releases the customer from the responsibility of returning the faulty unit
-and allows for self-managed disposal.
+and allows for self-managed disposal.Product Support
 
 
 **Table 1.1**
 
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+
+**Table 1.2**
+
 |  | CUSTOMER SUCCESS |  |  |
 | --- | --- | --- | --- |
-|  | PRODUCT SUPPORT | Advanced Support | Professional Services |
-| Focus Area | Technical support | Proactive business and technical alignment | Onboarding and rapid adoption |
-| Service Delivery | 24x7 follow the sun, plus options for premium response, automated alerts, and EEoS | Dedicated advanced support teams deliver ongoing management of lifecycle planning and escalations | Fixed scope engagements for common use cases |
-| Applies to | All products | FortiCare account level | Supported use cases |
+|  | PRODUCT SUPPORT | ADVANCED SUPPORT | PROFESSIONAL SERVICES |
 
 FortiCare Services Ordering Guide
 Product Support
@@ -60,23 +65,21 @@ PRODUCT SUPPORT
 ELITE PREMIUM
 Focus Area Technical support for product- or service-related issues
 Delivery Model Globally distributed technical assistance centers
-Service Delivery*
+SERVICE DELIVERY*
 24x7 follow the sun plus enhanced response times and
 Service Engagement 24x7 follow the sun
 automated alerts
 P1-P2 Escalations (Telephone Support) 15 minutes 1 hour
 P3 Escalations (Web Support) 2 hours Next business day
-Operations Integration Points
-FortiCare Asset Portal ⃝✓ ⃝✓
-Technical Escalation (Phone and Web) ⃝✓ ⃝✓
-EEoS** ⃝✓
-FortiCare Elite Portal ⃝✓
-Automated Monitoring and Alerts ⃝✓
-Security Rating Hygiene Recommendations ⃝✓
-FortiGuard Service Updates
-Application Control, Botnet/C2, GeoIP, TrustedCert, and so
-⃝✓ ⃝✓
-on***
+OPERATIONS INTEGRATION POINTS
+FortiCare Asset Portal  
+Technical Escalation (Phone and Web)  
+EEoS** 
+FortiCare Elite Portal 
+Automated Monitoring and Alerts 
+Security Rating Hygiene Recommendations 
+FORTIGUARD SERVICE UPDATES
+Application Control, Botnet/C2, GeoIP, TrustedCert, and so on***  
 * Elite available for supported product lines only (table reflects FortiGate).
 ** EEoS is only available on designated Long Term Support (LTS) releases.
 *** See the FortiGuard Ordering Guide for full details.
@@ -84,16 +87,13 @@ Order Lifecycle
 New Orders - Bundles
 All bundles (hardware or service) include PREMIUM support by default. You can upgrade all bundles to ELITE support using the
 following upgrade SKU:
-• Elite Add-on:
-FC-10-F100F-204-02-DD
+• Elite Add-on: FC-10-F100F-204-02-DD
 New Orders - A la Carte
 When ordering each component separately, you can directly purchase the Elite service level with the following SKU:
-• Elite “a la carte” SKU:
-FC-10-F100F-284-02-DD
+• Elite “a la carte” SKU: FC-10-F100F-284-02-DD
 Existing Customers - Upgrade to Elite
 Existing customers can upgrade to Elite service level by using the co-term SKU:
-• Elite Upgrade:
-FCZ-10-F100F-204-02-DD
+• Elite Upgrade: FCZ-10-F100F-204-02-DD
 See Also
 For small business deployments:
 • FortiCare Essentials: designed for price-sensitive deployments and includes web-based support only. See the datasheet for
@@ -106,21 +106,6 @@ information.
 |  | PRODUCT SUPPORT |  |
 | --- | --- | --- |
 |  | ELITE | PREMIUM |
-| Focus Area | Technical support for product- or service-related issues |  |
-| Delivery Model | Globally distributed technical assistance centers |  |
-| Service Delivery* |  |  |
-| Service Engagement | 24x7 follow the sun plus enhanced response times and automated alerts | 24x7 follow the sun |
-| P1-P2 Escalations (Telephone Support) | 15 minutes | 1 hour |
-| P3 Escalations (Web Support) | 2 hours | Next business day |
-| Operations Integration Points |  |  |
-| FortiCare Asset Portal | ⃝✓ | ⃝✓ |
-| Technical Escalation (Phone and Web) | ⃝✓ | ⃝✓ |
-| EEoS** | ⃝✓ |  |
-| FortiCare Elite Portal | ⃝✓ |  |
-| Automated Monitoring and Alerts | ⃝✓ |  |
-| Security Rating Hygiene Recommendations | ⃝✓ |  |
-| FortiGuard Service Updates |  |  |
-| Application Control, Botnet/C2, GeoIP, TrustedCert, and so on*** | ⃝✓ | ⃝✓ |
 
 
 **Table 2.2**
@@ -149,18 +134,13 @@ Both PRMA and SRMA are available in 1-, 3-, or 5-year contracts.
 Order Lifecycle
 New Orders
 PRMA add-ons require that you first register an active FortiCare Premium or FortiCare Elite license on the device:
-• Next Calendar Day Delivery Add-on:
-FC-10-F100F-210-02-DD
-• 4-hour Hardware Delivery:
-FC-10-F100F-211-02-DD
-• 4-hour Hardware and Onsite Engineer Add-on:
-FC-10-F100F-212-02-DD
-• Elite A La Carte:
-FC-10-F100F-284-02-DD
+• Next Calendar Day Delivery Add-on: FC-10-F100F-210-02-DD
+• 4-hour Hardware Delivery: FC-10-F100F-211-02-DD
+• 4-hour Hardware and Onsite Engineer Add-on: FC-10-F100F-212-02-DD
+• Elite A La Carte: FC-10-F100F-284-02-DD
 Multiyear
 All PRMA services are available with 3- and 5-year SKUs to simplify registration.
-• 3-year Next Calendar Day Delivery:
-FC-10-F100F-210-02-36
+• 3-year Next Calendar Day Delivery: FC-10-F100F-210-02-36
 3
 
 
@@ -176,78 +156,50 @@ Advanced Support
 Dedicated advanced support teams deliver these services, which include technical and business components. Services include
 lifecycle management and planning, proactive reviews, QBRs, best practice adoption, and service points for a customized
 experience.
-• Core: Technical Support response continuity through designated and skilled resources.
 • Pro: proactive collaboration surrounding Technical Support through assigned Technical Account Manager (TAM) focused on a
 consistent response and a focal point for the customer’s technical objectives.
 • Pro Plus: addition of a Service Relationship Manager (SRM) to the TAM to facilitate and drive a customer success outcome for
 larger or more complex enterprise environments, reducing customer effort and promoting continuous improvement.
 ADVANCED SUPPORT
-PRO PLUS pro core
-Direct Touch Engagement Advanced Tech + Business Advanced Tech Tech
-Service Points Included 30 16 6
-Resource Alignment
-Teamed ASE Ticket Handling ⃝✓ ⃝✓ ⃝✓ (Designated ASE)
-TAM ⃝✓ ⃝✓
-SRM ⃝✓
-Personalized Support Experience
-Escalation Matrix Management ⃝✓ ⃝✓ ⃝✓
-Extended Troubleshooting Support (18 months) ⃝✓ ⃝✓
-Configuration Hardening Check ⃝✓ ⃝✓
-Success Plan Development ⃝✓
-Critical Incident Management ⃝✓
-Lifecycle and Vulnerability Management
-PSIRT Vulnerability Notification ⃝✓ Advanced Notice ⃝✓ Advanced Notice ⃝✓
-Lifecycle Status Tracking ⃝✓ ⃝✓
-Lifecycle Audit ⃝✓
-Reporting
-Case Management Reviews ⃝✓ ⃝✓
-Quarterly Reporting ⃝✓ Attended ⃝✓ Attended
-Training and Skills Development
-Training Access ⃝✓ 14 delegates ⃝✓ 10 delegates ⃝✓ 6 delegates
+PRO PLUS PRO
+Direct Touch Engagement Advanced Tech + Business Advanced Tech
+Service Points Included 30 16
+RESOURCE ALIGNMENT
+Teamed ASE Ticket Handling  
+TAM  
+SRM 
+PERSONALIZED SUPPORT EXPERIENCE
+Escalation Matrix Management  
+Extended Troubleshooting Support (18 months)  
+Configuration Hardening Check  
+Success Plan Development 
+Critical Incident Management 
+LIFECYCLE AND VULNERABILITY MANAGEMENT
+PSIRT Vulnerability Notification  Advanced Notice  Advanced Notice
+Lifecycle Status Tracking  
+Lifecycle Audit 
+REPORTING
+Case Management Reviews  
+Quarterly Reporting  Attended  Attended
+TRAINING AND SKILLS DEVELOPMENT
+Training Access  14 delegates  10 delegates
 Order Lifecycle
 New Orders
 Direct purchase each tier using single SKU:
-• Pro Plus:
-FP-10-PS001-714-02-12
-• Pro:
-FP-10-PS001-712-02-12
-• Core:
-FP-10-PS001-711-02-12
+• Pro Plus: FP-10-PS001-714-02-12
+• Pro: FP-10-PS001-712-02-12
 Add-Ons
-• SRM Add-on (Pro or Core):
-FP-10-PS001-707-02-12
-• Add 10 Service Points:
-LIC-AS-10
+• SRM Add-on (Pro): FP-10-PS001-707-02-12
+• Add 10 Service Points: LIC-AS-10
 Pro and Pro Plus are available as global options where a TAM is assigned within each region.
 4
 
 
 **Table 4.1**
 
-|  | ADVANCED SUPPORT |  |  |
-| --- | --- | --- | --- |
-|  | PRO PLUS | pro | core |
-| Direct Touch Engagement | Advanced Tech + Business | Advanced Tech | Tech |
-| Service Points Included | 30 | 16 | 6 |
-| Resource Alignment |  |  |  |
-| Teamed ASE Ticket Handling | ⃝✓ | ⃝✓ | ⃝✓ (Designated ASE) |
-| TAM | ⃝✓ | ⃝✓ |  |
-| SRM | ⃝✓ |  |  |
-| Personalized Support Experience |  |  |  |
-| Escalation Matrix Management | ⃝✓ | ⃝✓ | ⃝✓ |
-| Extended Troubleshooting Support (18 months) | ⃝✓ | ⃝✓ |  |
-| Configuration Hardening Check | ⃝✓ | ⃝✓ |  |
-| Success Plan Development | ⃝✓ |  |  |
-| Critical Incident Management | ⃝✓ |  |  |
-| Lifecycle and Vulnerability Management |  |  |  |
-| PSIRT Vulnerability Notification | ⃝✓ Advanced Notice | ⃝✓ Advanced Notice | ⃝✓ |
-| Lifecycle Status Tracking | ⃝✓ | ⃝✓ |  |
-| Lifecycle Audit | ⃝✓ |  |  |
-| Reporting |  |  |  |
-| Case Management Reviews | ⃝✓ | ⃝✓ |  |
-| Quarterly Reporting | ⃝✓ Attended | ⃝✓ Attended |  |
-| Training and Skills Development |  |  |  |
-| Training Access | ⃝✓ 14 delegates | ⃝✓ 10 delegates | ⃝✓ 6 delegates |
+|  | ADVANCED SUPPORT |  |
+| --- | --- | --- |
+|  | PRO PLUS | PRO |
 
 
 **Table 4.2**
@@ -285,14 +237,15 @@ to optimize usage.
 Provides visibility of customer network condition by accessing the system data to generate report of Fortinet hardware and software lifecycle
 Lifecycle Audit
 status, the features, and bug tracker report.
-Focused on testing specific customer scenarios and deployments using Fortinet products under specific configuration and loading
-Customer Readiness Testing (CRT)
-conditions.
+Customer Readiness Testing (CRT) Focused on testing specific customer scenarios and deployments using Fortinet products under specific configuration and loading conditions.
 * Catalog items available at any time are displayed in, may depend on underlying services, and are amended from time to time at Fortinet’s sole discretion. The ordering guide provides only
 an indication of what may be available. You can consume the above services using Advanced Support service points.
 Service Catalog for Advanced Support Service
 Order an Advanced Support 12-month subscription service and add on service points in blocks of ten as needed using the Ten
-Service Points for AS Services SKU (LIC-AS-10).
+Service Points for AS Services SKU (LIC-AS-10). See Advanced Services types for details.
+• Advanced Support for Service Providers
+• Network Security (12 months): FP-10-PS001-1411-02-12
+• Network Security + Unified SASE (12 months): FP-10-PS001-1412-02-12
 5
 
 
@@ -300,17 +253,6 @@ Service Points for AS Services SKU (LIC-AS-10).
 
 | SERVICE | DESCRIPTION |
 | --- | --- |
-| Remote After Hours Assistance | Provides customer with remote after-hours assistance for a maximum duration of four hours during network changes. |
-| Software Upgrade Assistance | Consists of the testing of a target Fortinet software release against the customer’s communicated configuration within laboratory conditions and the provisioning of a test report on the outcome. |
-| Software Upgrade Recommendation with Bug Scrub | Fortinet performs an assessment of a target Fortinet software release against the customer’s technical environment for the purpose of addressing known bug-related issues. |
-| Software Best Practice | Consists of the delivery of a report outlining a best practice recommendation for a specific feature. |
-| Onsite Business One-day Visit | The purpose of this service option is to enable one AS resource for an onsite visit to discuss support topics like quarterly or annual business review, support with simple troubleshooting, presentation of an existing best practice recommendation, and open discussion on planned activities. |
-| Knowledge Transfer - Custom Webinar | Provides a one-time webinar, which consists of a remote session delivered in English where one feature is explained based on the customer’s configuration. The webinar is also supplemented with best practice troubleshooting steps for commonly seen issues. |
-| Knowledge Transfer - Custom Workshop | Provides a one-time knowledge transfer custom workshop with hands-on troubleshooting (maximum of three users) based on a reasonable number of product features or use cases that the customer provides. |
-| Configuration Hardening Check | Provides a report that covers the FortiGate products deployed on customer network, highlighting the best practices and recommendations to apply to the product to harden and improve device security. |
-| Device Performance Health Check | Provides a report that covers a standalone FortiGate or a cluster of FortiGate devices deployed on customer network with recommendations to optimize usage. |
-| Lifecycle Audit | Provides visibility of customer network condition by accessing the system data to generate report of Fortinet hardware and software lifecycle status, the features, and bug tracker report. |
-| Customer Readiness Testing (CRT) | Focused on testing specific customer scenarios and deployments using Fortinet products under specific configuration and loading conditions. |
 
 
 **Table 5.2**
@@ -327,7 +269,7 @@ configurations across a wide variety of customer-driven use cases. The team prov
 with hands-on configuration as required.
 Professional Services offer simple and streamlined options that you can schedule when needed.
 USE CASE SUMMARY HOW TO BUY
-Configuration Migration and Deployment
+CONFIGURATION MIGRATION AND DEPLOYMENT
 Assistance to convert an existing FortiGate configuration to a new version and/or hardware model, engaged via Subscription service
 FortiConverter Service
 Customer Support ticket process. (per-model)
@@ -350,57 +292,34 @@ Design Workshop Service Collaborative workshop to help the customer seamlessly i
 Daily
 New Feature Introduction Service Designed to help the customer effectively configure and adopt new features and functionalities.
 Upgrade Plan Service Helps the customer seamlessly upgrade and transition to new hardware or firmware.
-Best Practice Consultation (BPS)
-Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial
+BEST PRACTICE CONSULTATION (BPS)
+Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial for
 FortiClient
-for security effectiveness plus system outage avoidance or SOC overload. See the FortiClient Ordering Guide.
-Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial Range SKU based on number of
+security effectiveness plus system outage avoidance or SOC overload. See the FortiClient Ordering Guide.
+Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial for Range SKU based on number of
 FortiEDR
-for security effectiveness plus system outage avoidance or SOC overload. See the FortiEDR Ordering Guide. endpoints
-Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial
+security effectiveness plus system outage avoidance or SOC overload. See the FortiEDR Ordering Guide. endpoints
+Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial for
 FortiMonitor
-for security effectiveness plus system outage avoidance or SOC overload. See the FortiMonitor Ordering Guide.
-Targeted Enagements
-Presales Consulting
+security effectiveness plus system outage avoidance or SOC overload. See the FortiMonitor Ordering Guide.
+TARGETED ENAGEMENTS
+PRESALES CONSULTING
 Term engagements
 Cloud Resource Engineers Dedicated projects for public clouds (AWS, Azure, Google, and Oracle)
 (full- and part-time)
-Per-day solution architect consultancy engagement to document, design, and deliver security architecture
-Solution Architect Consultancy Service Daily
-improvements per agreed scope.
+Solution Architect Consultancy Per-day solution architect consultancy engagement to document, design, and deliver security architecture
+Daily
+Service improvements per agreed scope.
 Remotely assist the customer with architecture and infrastructure operations expertise in public cloud
-Cloud Architecture environments including connectivity, security, and networking elements combined with the effective use of Daily/term engagement (full-time)
+Daily/term engagement
+Cloud Architecture environments including connectivity, security, and networking elements combined with the effective use of
+(full-time)
 Fortinet products throughout their lifecycle within such environments.
-Postsales Implementation
+POSTSALES IMPLEMENTATION
 Term engagements
 Designated Engineers Dedicated resources. Can be onsite, remote, part-time, or security-cleared (full- or part-time).
 (full- and part-time)
 Professional Services Custom engagements based on Statement of Work (SoW). Daily
-Service Catalog*
-Incident Response Services Dedicated projects for post-exploitation investigation, patient-0 discovery, recovery planning, and so on. Hourly
-Assessment done through key stakeholder interviews and document reviews. This assessment’s goal is to
-Incident Response Readiness
-strengthen an organization’s overall ability to respond efficiently and effectively to an unexpected cyber Activity-based service points
-Assessment
-incident and help prioritize cybersecurity actions and investments.
-Service Catalog*
-Tests the organization’s incident response plan and assist in identifying security gaps in cybersecurity or
-Cyber Security Tabletop Exercise processes. The FortiGuard Incident Response Team designs and delivers this exercise based on experiences
-they have encountered during various incident response engagements.
-Hourly
-Assist with incident response playbook development. An incident response playbook is a step-by-step guide
-Incident Response Playbook
-organizations use in the event of an impactful cybersecurity incident on the network based on the most
-Development
-probable events.
-Evaluate, help optimize, and mature the SecOps and SOC functions for greatest enterprise risk reduction and
-continuous improvement. Measuring the coherence of the structure, visibility, response readiness and long
-SOC Assessment
-term plan for the function, the services provide an objective, realistic set of recommendations custom to the
-organization. Activity-based service points
-Organized according to the NIST Cybersecurity Framework (CSF), focusing on the controls and capabilities
-Ransomware Readiness Assessment
-most relevant to ransomware tools, techniques, and procedures (TTPs).
 6
 
 
@@ -408,45 +327,29 @@ most relevant to ransomware tools, techniques, and procedures (TTPs).
 
 | USE CASE | SUMMARY | HOW TO BUY |
 | --- | --- | --- |
-| Configuration Migration and Deployment |  |  |
-| FortiConverter Service | Assistance to convert an existing FortiGate configuration to a new version and/or hardware model, engaged via Customer Support ticket process. | Subscription service (per-model) |
-| NGFW QuickStart | Professional Service-based package providing direct touch consultation and customization of a base NGFW configuration or best practice for the initial deployment. | Dedicated SKU based on FortiGate platform range |
-| FortiSOAR QuickStart | FortiSOAR deployment quickstart service. | FP-10-QSSOAR-DP1-00-00 |
-| FortiNAC QuickStart | FortiNAC standard deployment quickstart service. | FP-10-QSFNAC-DP1-00-00 |
-|  | FortiNAC advanced deployment quickstart service. | FP-10-QSFNAC-DP2-00-00 |
-| SD-WAN QuickStart | SD-WAN deployment quickstart service. Standalone site. | FP-10-QSSDWAN-DP1-00-00 |
-|  | SD-WAN deployment quickstart service. Hub and spokes (single DC). | FP-10-QSSDWAN-DP2-00-00 |
-|  | SD-WAN deployment quickstart service. Hub and spoke with ZTP (single DC). | FP-10-QSSDWAN-DP3-00-00 |
-| FortiMail Cloud QuickStart | FortiMail Cloud deployment quickstart service. | FP-10-PS001-765-01-03 |
-| Lacework FortiCNAPP QuickStart | Rapid CNAPP production onboarding with low-touch guidance for two months engagement. | FP-10-QSCNAPP-DP1-00-02 |
-|  | Thorough CNAPP production onboarding with high-touch guidance for three months engagement. | FP-10-QSCNAPP-DP3-00-03 |
-| Configuration Review Service | Defined offering to ensure the customer’s configuration is optimized for performance and security. | Daily |
-| Design Workshop Service | Collaborative workshop to help the customer seamlessly integrate new Fortinet solutions. |  |
-| New Feature Introduction Service | Designed to help the customer effectively configure and adopt new features and functionalities. |  |
-| Upgrade Plan Service | Helps the customer seamlessly upgrade and transition to new hardware or firmware. |  |
-| Best Practice Consultation (BPS) |  |  |
-| FortiClient | Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial for security effectiveness plus system outage avoidance or SOC overload. See the FortiClient Ordering Guide. | Range SKU based on number of endpoints |
-| FortiEDR | Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial for security effectiveness plus system outage avoidance or SOC overload. See the FortiEDR Ordering Guide. |  |
-| FortiMonitor | Consultation service for initial setup and best practice deployment of endpoint agents. Proper setup is crucial for security effectiveness plus system outage avoidance or SOC overload. See the FortiMonitor Ordering Guide. |  |
-| Targeted Enagements |  |  |
-| Presales Consulting |  |  |
-| Cloud Resource Engineers | Dedicated projects for public clouds (AWS, Azure, Google, and Oracle) | Term engagements (full- and part-time) |
-| Solution Architect Consultancy Service | Per-day solution architect consultancy engagement to document, design, and deliver security architecture improvements per agreed scope. | Daily |
-| Cloud Architecture | Remotely assist the customer with architecture and infrastructure operations expertise in public cloud environments including connectivity, security, and networking elements combined with the effective use of Fortinet products throughout their lifecycle within such environments. | Daily/term engagement (full-time) |
-| Postsales Implementation |  |  |
-| Designated Engineers | Dedicated resources. Can be onsite, remote, part-time, or security-cleared (full- or part-time). | Term engagements (full- and part-time) |
-| Professional Services | Custom engagements based on Statement of Work (SoW). | Daily |
-| Service Catalog* |  |  |
-| Incident Response Services | Dedicated projects for post-exploitation investigation, patient-0 discovery, recovery planning, and so on. | Hourly |
-| Incident Response Readiness Assessment | Assessment done through key stakeholder interviews and document reviews. This assessment’s goal is to strengthen an organization’s overall ability to respond efficiently and effectively to an unexpected cyber incident and help prioritize cybersecurity actions and investments. | Activity-based service points |
-| Service Catalog* |  |  |
-| Cyber Security Tabletop Exercise | Tests the organization’s incident response plan and assist in identifying security gaps in cybersecurity or processes. The FortiGuard Incident Response Team designs and delivers this exercise based on experiences they have encountered during various incident response engagements. | Hourly |
-| Incident Response Playbook Development | Assist with incident response playbook development. An incident response playbook is a step-by-step guide organizations use in the event of an impactful cybersecurity incident on the network based on the most probable events. |  |
-| SOC Assessment | Evaluate, help optimize, and mature the SecOps and SOC functions for greatest enterprise risk reduction and continuous improvement. Measuring the coherence of the structure, visibility, response readiness and long term plan for the function, the services provide an objective, realistic set of recommendations custom to the organization. | Activity-based service points |
-| Ransomware Readiness Assessment | Organized according to the NIST Cybersecurity Framework (CSF), focusing on the controls and capabilities most relevant to ransomware tools, techniques, and procedures (TTPs). |  |
+| CONFIGURATION MIGRATION AND DEPLOYMENT |  |  |
 
 
 **Table 6.2**
+
+| BEST PRACTICE CONSULTATION (BPS) |  |
+| --- | --- |
+
+
+**Table 6.3**
+
+| TARGETED ENAGEMENTS |  |
+| --- | --- |
+| PRESALES CONSULTING |  |
+
+
+**Table 6.4**
+
+| POSTSALES IMPLEMENTATION |  |
+| --- | --- |
+
+
+**Table 6.5**
 
 |  |  |  |
 | --- | --- | --- |
@@ -454,22 +357,45 @@ most relevant to ransomware tools, techniques, and procedures (TTPs).
 |  |  |  |
 
 FortiCare Services Ordering Guide
-Professional Services
 USE CASE SUMMARY HOW TO BUY
+SERVICE CATALOG*
+Incident Response Services Dedicated projects for post-exploitation investigation, patient-0 discovery, recovery planning, and so on. Hourly
+Assessment done through key stakeholder interviews and document reviews. This assessment’s goal is to
+Incident Response Readiness
+strengthen an organization’s overall ability to respond efficiently and effectively to an unexpected cyber incident Activity-based service points
+Assessment
+and help prioritize cybersecurity actions and investments.
+Tests the organization’s incident response plan and assist in identifying security gaps in cybersecurity or
+Cyber Security Tabletop Exercise processes. The FortiGuard Incident Response Team designs and delivers this exercise based on experiences they
+have encountered during various incident response engagements.
+Hourly
+Assist with incident response playbook development. An incident response playbook is a step-by-step guide
+Incident Response Playbook
+organizations use in the event of an impactful cybersecurity incident on the network based on the most probable
+Development
+events.
+Evaluate, help optimize, and mature the SecOps and SOC functions for greatest enterprise risk reduction and
+continuous improvement. Measuring the coherence of the structure, visibility, response readiness and long
+SOC Assessment
+term plan for the function, the services provide an objective, realistic set of recommendations custom to the
+Activity-based service points
+organization.
+Organized according to the NIST Cybersecurity Framework (CSF), focusing on the controls and capabilities most
+Ransomware Readiness Assessment
+relevant to ransomware tools, techniques, and procedures (TTPs).
 Designed to identify hidden but active cyber threats in customer’s enterprise environment. It provides detailed
 Compromise Assessment threat hunting in customer infrastructure to discover the anomalies that could be signs of a past or ongoing
 compromise.
 Active Directory (AD) Security Reviews several key areas related to running and configuring an Identity & Access Management program using
-Assessment AD.
-Hourly
-Designed to identify known vulnerabilities within information systems or services. With this assessment,
-Vulnerability Assessment you will understand the known vulnerabilities within your organization’s internal and external networks and
-applications.
+Assessment AD. Hourly
+Designed to identify known vulnerabilities within information systems or services. With this assessment, you will
+Vulnerability Assessment
+understand the known vulnerabilities within your organization’s internal and external networks and applications.
 Specialized assessment our team conducts on networks, systems, and applications to identify unknown
 Penetration Test
 vulnerabilities that an adversary could exploit.
-* The online service catalog displays catalog items available at any time. This may depend upon underlying services, and items are amended from time to time at Fortinet’s sole discretion. The
-ordering guide provides only an indication of what may be available.
+* The online service catalog displays catalog items available at any time. This may depend upon underlying services, and items are amended from time to time at Fortinet’s sole discretion.
+The ordering guide provides only an indication of what may be available.
 Configuration Migration
 Following SKU types are available:
 • FortiConverter Service - dedicated SKU for your FortiGate model (example for FG-100F: FC-10-F100F-189-02-DD)
@@ -489,6 +415,24 @@ Following SKU types are available:
 • Lacework FortiCNAPP Deployment QuickStart Service:
 • Standard: FP-10-QSCNAPP-DP1-00-02
 • Enterprise: FP-10-QSCNAPP-DP3-00-03
+7
+
+
+**Table 7.1**
+
+| USE CASE | SUMMARY | HOW TO BUY |
+| --- | --- | --- |
+| SERVICE CATALOG* |  |  |
+
+
+**Table 7.2**
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+FortiCare Services Ordering Guide
 BPS
 For streamlined onboarding and endpoint setup, see the ONBOARDING section of each product Ordering Guide - FortiClient,
 FortiEDR, and FortiMonitor.
@@ -506,22 +450,11 @@ The following hourly response SKUs are available:
 • Digital Forensics and Incident Response consulting services - hourly: FP-10-IR-FRNSCS
 • Incident Response Proactive Consulting Services - hourly: FP-10-IR-PROACTIVE
 Add on service points in ten as needed using the Ten Service Point for IR Services SKU (LIC-IR-10).
-7
-
-
-**Table 7.1**
-
-| USE CASE | SUMMARY | HOW TO BUY |
-| --- | --- | --- |
-| Compromise Assessment | Designed to identify hidden but active cyber threats in customer’s enterprise environment. It provides detailed threat hunting in customer infrastructure to discover the anomalies that could be signs of a past or ongoing compromise. | Hourly |
-| Active Directory (AD) Security Assessment | Reviews several key areas related to running and configuring an Identity & Access Management program using AD. |  |
-| Vulnerability Assessment | Designed to identify known vulnerabilities within information systems or services. With this assessment, you will understand the known vulnerabilities within your organization’s internal and external networks and applications. |  |
-| Penetration Test | Specialized assessment our team conducts on networks, systems, and applications to identify unknown vulnerabilities that an adversary could exploit. |  |
-
-
-**Table 7.2**
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
+www.fortinet.com
+Copyright © 2026 Fortinet, Inc. All rights reserved. Fortinet®, FortiGate®, FortiCare® and FortiGuard®, and certain other marks are registered trademarks of Fortinet, Inc., and other Fortinet names herein may also be registered and/or common law trademarks of Fortinet. All other product or
+company names may be trademarks of their respective owners. Performance and other metrics contained herein were attained in internal lab tests under ideal conditions, and actual performance and other results may vary. Network variables, different network environments and other condi-
+tions may affect performance results. Nothing herein represents any binding commitment by Fortinet, and Fortinet disclaims all warranties, whether express or implied, except to the extent Fortinet enters a binding written contract, signed by Fortinet’s SVP Legal and above, with a purchaser
+that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
+such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
+revise this publication without notice, and the most current version of the publication shall be applicable.
+FCR-OG-R18-20261022

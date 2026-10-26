@@ -1,0 +1,41 @@
+--- previous
++++ current
+@@ -35,7 +35,7 @@
+ | --- | --- |
+ FortiDDoS Ordering Guide
+ Product Offerings
+-DPDK/TP3 ACCELERATED DEVICES AND VIRTUAL MACHINES
++DPDK ACCELERATED DEVICES AND VIRTUAL MACHINES
+ 1500F
+ VM04 VM08 VM16 200F 2000F 3000G
+ 1500F-LR
+@@ -91,7 +91,7 @@
+ • FortiDDoS is not able to extract transceiver information from server NICs making connectivity troubleshooting more difficult.
+ 2
+ **Table 2.1**
+-| DPDK/TP3 ACCELERATED DEVICES AND VIRTUAL MACHINES | | | | | | | |
++| DPDK ACCELERATED DEVICES AND VIRTUAL MACHINES | | | | | | | |
+ | --- | --- | --- | --- | --- | --- | --- | --- |
+ | | VM04 | VM08 | VM16 | 200F | 1500F 1500F-LR | 2000F | 3000G |
+ | RECOMMENDED CONNECTIVITY FOR ENTERPRISE DATACENTER ENVIRONMENTS | | | | | | | |
+@@ -115,7 +115,7 @@
+ | | | |
+ FortiDDoS Ordering Guide
+ Order Information
+-DPDK/TP3 ACCELERATED DEVICES
++DPDK ACCELERATED DEVICES
+ PRODUCT 200F 1500F 1500F-LR 2000F 3000G
+ Device FDD-200F FDD-1500F FDD-1500F-LR FDD-2000F FDD-3000G
+ IP Reputation FC-10-FI2HF-140-02-DD FC-10-F1K5F-140-02-DD FC-10-F15SF-140- 02-DD FC-10-FD2KF -140-02-DD FC-10-FI3KG -140- 02-DD
+@@ -146,9 +146,9 @@
+ that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
+ such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
+ revise this publication without notice, and the most current version of the publication shall be applicable.
+-FDD-OG-R12-20260323
++FDD-OG-R13-20261020
+ **Table 3.1**
+-| DPDK/TP3 ACCELERATED DEVICES | | | | | |
++| DPDK ACCELERATED DEVICES | | | | | |
+ | --- | --- | --- | --- | --- | --- |
+ | PRODUCT | 200F | 1500F | 1500F-LR | 2000F | 3000G |
+ **Table 3.2**
