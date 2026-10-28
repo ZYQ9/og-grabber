@@ -1,0 +1,30 @@
+{
+  "baseline_initialized": [],
+  "binary_only": [],
+  "checked_at": "2026-10-28T18:20:46.199487+00:00",
+  "comparison_complete": true,
+  "content_review_candidates": [
+    {
+      "added_skus": [],
+      "detail": "Extracted content changed; review diff for material ordering impact before notifying.",
+      "diff_path": "changes/diffs/2026-10-28T182046.199487_0000/og-fortindr.diff",
+      "guide_key": "og-fortindr",
+      "inventory_impact": "Mirrored text refreshed; review guide identity if replaced.",
+      "kind": "content_changed",
+      "local_path": "10. Advanced Threat Detection/og-fortindr.md",
+      "lookup_impact": "Review model, SKU, bundle, licensing, and ordering-rule differences.",
+      "pdf_sha256": "fc5477b65c35cb67ab6bbe56cb02e20b558a01dc4d9e4896ac2f687eb4c0b117",
+      "previous_pdf_sha256": "723f59f9ab25e5ea15de46fc53dd9b140a68c3447d44a75d9f8182f435703cd2",
+      "previous_url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortindr.pdf",
+      "removed_skus": [],
+      "title": "FortiNDR",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortindr.pdf"
+    }
+  ],
+  "discovery_error": null,
+  "discovery_only": [],
+  "discovery_verified": true,
+  "qualifying_changes": [],
+  "schema_version": 1,
+  "unverified": []
+}
