@@ -1,0 +1,76 @@
+{
+  "baseline_initialized": [],
+  "binary_only": [],
+  "checked_at": "2026-11-16T11:32:30.189668+00:00",
+  "comparison_complete": true,
+  "content_review_candidates": [
+    {
+      "added_skus": [],
+      "detail": "Extracted content changed; review diff for material ordering impact before notifying.",
+      "diff_path": "changes/diffs/2026-11-16T113230.189668_0000/og-fortiguard.diff",
+      "guide_key": "og-fortiguard",
+      "inventory_impact": "Mirrored text refreshed; review guide identity if replaced.",
+      "kind": "content_changed",
+      "local_path": "01. Unified OS/og-fortiguard.md",
+      "lookup_impact": "Review model, SKU, bundle, licensing, and ordering-rule differences.",
+      "pdf_sha256": "bfce812abc8d94483f4c05496a4f8d44338dcacfa1f59808e1afabae4187451d",
+      "previous_pdf_sha256": "fd5d0852fd0176d563352d568ecd7160f8c6a280d9ad91d8a2d982101733cb04",
+      "previous_url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiguard.pdf",
+      "removed_skus": [],
+      "title": "FortiGate FortiGuard Subscriptions",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortiguard.pdf"
+    },
+    {
+      "added_skus": [
+        "FC-10-DC1KG-247-02-DD",
+        "FC-10-DE1HH-1405",
+        "FC-10-DE1HH-1405-02-DD",
+        "FC-10-DR1HG-247-02-DD",
+        "FC1-10-DCVME-248-02-DD",
+        "FC1-10-DR1HG-495",
+        "FC1-10-DR1HG-495-02-DD",
+        "FDC-OG-R30-20261001",
+        "FDC-VMS"
+      ],
+      "detail": "Extracted content changed; review diff for material ordering impact before notifying.",
+      "diff_path": "changes/diffs/2026-11-16T113230.189668_0000/og-fortideceptor.diff",
+      "guide_key": "og-fortideceptor",
+      "inventory_impact": "Mirrored text refreshed; review guide identity if replaced.",
+      "kind": "content_changed",
+      "local_path": "10. Advanced Threat Detection/og-fortideceptor.md",
+      "lookup_impact": "Review model, SKU, bundle, licensing, and ordering-rule differences.",
+      "pdf_sha256": "d3a83ee5aa2cde5fc21298aab4ee502d6fd9b35b7238235c6eed0285b0630c10",
+      "previous_pdf_sha256": "8825437845c84a37c2610f84e79001620d0da75cbb6e7598d062f6ccc4aa025d",
+      "previous_url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortideceptor.pdf",
+      "removed_skus": [
+        "FC-10-DR1HG-495",
+        "FC1-10-FDCCM-497",
+        "FDC-OG-R27-2026002"
+      ],
+      "title": "FortiDeceptor",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-fortideceptor.pdf"
+    },
+    {
+      "added_skus": [],
+      "detail": "Extracted content changed; review diff for material ordering impact before notifying.",
+      "diff_path": "changes/diffs/2026-11-16T113230.189668_0000/og-nse-program.diff",
+      "guide_key": "og-nse-program",
+      "inventory_impact": "Mirrored text refreshed; review guide identity if replaced.",
+      "kind": "content_changed",
+      "local_path": "04. Unified AppSec and Cloud/og-nse-program.md",
+      "lookup_impact": "Review model, SKU, bundle, licensing, and ordering-rule differences.",
+      "pdf_sha256": "cd1763ab4499383ce0d680f17351de041bc93ad60cb0063aea3ade828bbbde7f",
+      "previous_pdf_sha256": "62596c405fa4ef64f79827d8b4c7f32afa11fbe2d89de93cd56fefdd342867ef",
+      "previous_url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-nse-program.pdf",
+      "removed_skus": [],
+      "title": "NSE Training & Certification Program",
+      "url": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/og-nse-program.pdf"
+    }
+  ],
+  "discovery_error": null,
+  "discovery_only": [],
+  "discovery_verified": true,
+  "qualifying_changes": [],
+  "schema_version": 1,
+  "unverified": []
+}

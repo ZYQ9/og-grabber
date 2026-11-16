@@ -6,44 +6,44 @@ Security Services Today’s Attack Surface
 Where AI helps defenders How AI raises the risk
 AI SECURITY AGENTIC AI
 Inline AI Security Prompt & Agent Abuse
-AI Guardrails for prompt inspection inline at the network edge without needingadditional
-Harmful instructions, risky tool use and agents acting outside their
-infrastructure add ons. Simple to adopt as a service to FortiGate,FortiSASE, FortiWeb, FortiClient, ...
+AI Guardrails for prompt inspection inline at the network edge without needing additional
+Harmful instructions, risky tool use, and agents acting outside their
+infrastructure add ons. Simple to adopt as a service to FortiGate, FortiSASE, FortiWeb, FortiClient, ...
 intended scope.
 COMBAT THE AI RISK
 HOW AI RAISES THE RISK
-Model-aware inspection that scores prompt intent and enforces AI Guardrailscovering OWASP
+Model-aware inspection that scores prompt intent and enforces AI Guardrails covering OWASP
 Top10, stopping harmful prompts, injection & jail breaking attacks. Also, obfuscates any Indirect prompt injection hidden in web pages, files and emails can
 proprietary or sensitive data before it can reach external AI models. hijack autonomous agents into running tools, moving data or escalating
-privilege — nomalware required.
+privilege — no malware required.
 WHAT TO BUY: FortiGuard Enterprise Bundle
 DATA & SAAS SECURITY DATA
 Data & SaaS Posture: Data Loss / Exfiltration
 FortiGuard AI Data Protection Services
 Source code, product designs, end-user data (PII) or any customer-
-sensitivedata leaving the organization, by accident or by intent.
+sensitive data leaving the organization, by accident or by intent.
 Inline inspection protecting GenAI & SaaS apps with predefined pattern libraries, custom patterns
 and Image/OCR detection to prevent proprietary or sensitive data leaks when users leverage
 HOW AI RAISES THE RISK
 sanctioned or unsanctioned AI tools and applications.
 Employees paste proprietary code and customer records into public AI
 COMBAT THE AI RISK
-tools;agents with broad access move data at machine speed, and AI can
-Logs or blocks sensitive uploads and prompts to public AI tools (Shadow AI); context-aware rewrite orencode content to slip past exact-match rules..
+tools; agents with broad access move data at machine speed, and AI can
+Logs or blocks sensitive uploads and prompts to public AI tools (Shadow AI); context-aware rewrite or encode content to slip past exact-match rules.
 classification including Confidence Levels and proximity search can extend coverage to
 paraphrased data that exact patterns miss
 WHAT TO BUY: FortiGuard Enterprise Bundle
 AI USAGE SHADOW AI
 Shadow AI Visibility & Control Unsanctioned AI Use
-Complete visibility and control of both sanctioned and unsanctioned AIapplications across all Use of unsanctioned applications, which might allow sensitive or
-ports and protocols. Identifies thousands of cloud &network applications, helping teams support proprietarydata to be sent to the cloud, stored in geographies
-approved tools while spotting andgoverning apps that may introduce risk. Also recognizes & undesired, and give accessto such data to foreign governments or
-enforces use ofcorporate accounts. organizations.
+Complete visibility and control of both sanctioned and unsanctioned Applications across all Use of unsanctioned applications, which might allow sensitive or
+ports and protocols. Identifies thousands of cloud & network applications, helping teams support proprietary data to be sent to the cloud, stored in geographies
+approved tools while spotting and governing apps that may introduce risk. Also recognizes & undesired, and give access to such data to foreign governments or
+enforces use of corporate accounts. organizations.
 COMBAT THE AI RISK HOW AI RAISES THE RISK
-Extends visibility to generative AI applications and services, helping securityteams discover AI tools greatly simplify end-to-end daily tasks for all types of roles
-where AI tools are being used and reduce shadow AI risks.Application Control detects Model &responsibilities. The desire to optimize time, take short-cuts and deliver
-Context Protocol (MCP) tools and Agent-to-Agent (A2A) traffic, helping organizations monitor the betterresults all push users to seek out these tools. Enabling corporate
-sprawl of AI agents in thenetwork. + sanctionedtools is necessary in today’s environments, starting with
+Extends visibility to generative AI applications and services, helping security teams discover AI tools greatly simplify end-to-end daily tasks for all types of roles &
+where AI tools are being used and reduce shadow AI risks. Application Control detects Model responsibilities. The desire to optimize time, take short-cuts and deliver
+Context Protocol (MCP) tools and Agent-to-Agent (A2A) traffic, helping organizations monitor the better results all push users to seek out these tools. Enabling corporate
+sprawl of AI agents in the network. + sanctioned tools is necessary in today’s environments, starting with
 complete visibility & control.
 WHAT TO BUY: FortiGuard Enterprise Bundle
 CORE NGFW NETWORK · WEB · EMAIL · DNS · PAYLOADS
@@ -57,9 +57,9 @@ analysis for zero-day detection (ATP and UTP bundles). ransomware delivered thro
 • Network Intrusion (FortiGuard IPS): Deep packet inspection and protocol analysis block • Vulnerabilities & Exploits (Network): Attacks on exposed services,
 known exploits, protocol abuse and lateral movement in real time. unpatched systems and network protocols.
 COMBAT THE AI RISK HOW AI RAISES THE RISK
-AI/ML and behavioral detection across files, traffic, web and DNS keeps pacewith machine- AI compresses the time from disclosure to weaponized exploit; LLMs
-generated variants and never-before-seen patterns — judgingthreats by what they do rather than generatefluent, personalized phishing and clone sites at scale; and
-what they look like, and feeding ATT&CK-mapped, AI-assisted triage to shorten response. automated agentsscan, probe and attack exposed services 24x7.
+AI/ML and behavioral detection across files, traffic, web and DNS keeps pace with machine- AI compresses the time from disclosure to weaponized exploit; LLMs
+generated variants and never-before-seen patterns — judging threats by what they do rather generate fluent, personalized phishing and clone sites at scale; and
+than what they look like, and feeding ATT&CK-mapped, AI-assisted triage to shorten response. automated agents scan, probe, and attack exposed services 24x7.
 WHAT TO BUY: FortiGuard Enterprise or NGFW Bundle
 FortiGuard service layer Threat it counters New AI-era layer 1
 
@@ -72,12 +72,12 @@ RECOMMENDED
 Enterprise AI Service Bundle NGFW Service Bundle
 Full coverage for modern AI-era networks — Essential next-generation firewall protection.
 everything in NGFW, plus AI control, data protection,
-0-day prevention and migrationsupport. CORE PROTECTION
-24x7/365 Premium Support Malicious CertificateDetection
-CORE PROTECTION
-IPS Anti-Malware
-24x7/365 Premium Support Malicious Certificates Botnet / C&C Post-transfer Sandbox
-IPS Anti-Malware URL & DNS Filtering (0-day detection)
+0-day prevention and migration support. CORE PROTECTION
+24x7/365 Premium Support Malicious Certificate
+CORE PROTECTION IPS Detection
+24x7/365 Premium Support Malicious Certificates Botnet / C&C Anti-Malware
+IPS Anti-Malware URL & DNS Filtering Post-transfer Sandbox
+(0-day detection)
 Botnet / C&C Post-transfer Sandbox
 URL & DNS Filtering Inline Cloud Sandbox AI VISIBILITY — PARTIAL ONLY
 (0-day prevention) Shadow AI Apps · MCP Protocol Detection
@@ -89,7 +89,7 @@ MCP Protocol Detection Agent Detection
 Full Shadow AI / LLM / Agent detection
 DATA PROTECTION Data-in-motion & Image/OCR inspection
 Data-in-motion Inspection DLP Pattern Library DLP Pattern Library · GenAI & SaaS DLP
-Image/OCR Inspection GenAI & SaaS App DLP FortiConverter upgrade & conversion supportn
+Image/OCR Inspection GenAI & SaaS App DLP FortiConverter upgrade & conversion support
 MIGRATION Choose Enterprise
 FortiConverter Upgrade & Conversion Support for full Shadow AI, DLP & conversion support
 2 Add AI Services Recommended add-ons
@@ -100,8 +100,8 @@ FortiAI Inference Service Secure MCP Access
 3 Optional - by deployment Add if it fits
 SD-WAN & NOC Operations OT Security
 SD-WAN Underlay & SASE Secure Private Security Rating · OT Discovery & Vulnerability Correlation
-Overlay Monitoring AccessConnector OutbreakCorrelation OT Application Control & IPS
-SD-WAN FortiSASE Starter Kit FortiGate Cloud OT Virtual Patching
+Overlay Monitoring Access Connector Outbreak Correlation OT Application Control & IPS
+SD-WAN FortiSASE Starter Kit FortiManagement Cloud OT Virtual Patching
 Overlay Orchestration IoT Discovery & (1-year log retention)
 Vulnerability Correlation FortiTelemetry Cloud
 2
@@ -111,7 +111,7 @@ Vulnerability Correlation FortiTelemetry Cloud
 
 |  | RECOMMENDED |  |
 | --- | --- | --- |
-| Enterprise AI Service Bundle Full coverage for modern AI-era networks — everything in NGFW, plus AI control, data protection, 0-day prevention and migrationsupport. CORE PROTECTION 24x7/365 Premium Support Malicious Certificates IPS Anti-Malware Botnet / C&C Post-transfer Sandbox URL & DNS Filtering Inline Cloud Sandbox (0-day prevention) AI VISIBILITY — FULL Shadow AI Detection LLM Detection MCP Protocol Detection Agent Detection DATA PROTECTION Data-in-motion Inspection DLP Pattern Library Image/OCR Inspection GenAI & SaaS App DLP MIGRATION FortiConverter Upgrade & Conversion Support | Bundle |  |
+| Enterprise AI Service Bundle Full coverage for modern AI-era networks — everything in NGFW, plus AI control, data protection, 0-day prevention and migration support. CORE PROTECTION 24x7/365 Premium Support Malicious Certificates IPS Anti-Malware Botnet / C&C Post-transfer Sandbox URL & DNS Filtering Inline Cloud Sandbox (0-day prevention) AI VISIBILITY — FULL Shadow AI Detection LLM Detection MCP Protocol Detection Agent Detection DATA PROTECTION Data-in-motion Inspection DLP Pattern Library Image/OCR Inspection GenAI & SaaS App DLP MIGRATION FortiConverter Upgrade & Conversion Support | Bundle |  |
 
 
 **Table 2.2**
@@ -164,7 +164,7 @@ Add On AI Services
 FortiGuard Inline AI Security FC-10- GT70G -1435-02-DD
 FortiGuard Agentic AI Operations Service FC-10- GT70G -1428-02-DD
 Optional by Deployment
-SDWAN
+SD-WAN
 SD-WAN Service Bundle (SD-WAN Underlay & Application Monitoring, Overlay Orchestration,
 FortiSASE 5-user starter kit, SASE Secure Private Access (SPA) Connector, FortiGuard SD-WAN SLA
 FC-10-GT70G-1329-02-DD
@@ -190,14 +190,14 @@ FortiGuard Inline Sandbox Service FC-10- GT70G -577-02-DD
 FortiGuard OT Security Service FC-10- GT70G -159-02-DD
 www.fortinet.com
 ®
-Copyright © 2026 Fortinet, Inc. All rights reserved. Fortinet®, FortiGate®, FortiCare® and FortiGuard®, and certain other marks are registered trademarks of Fortinet, Inc., and other Fortinet names herein may also be registered and/or common law trademarks of Fortinet. All other product
-or company names may be trademarks of their respective owners. Performance and other metrics contained herein were attained in internal lab tests under ideal conditions, and actual performance and other results may vary. Network variables, different network environments and other
-conditions may affect performance results. Nothing herein represents any binding commitment by Fortinet, and Fortinet disclaims all warranties, whether express or implied, except to the extent Fortinet enters a binding written contract, signed by Fortinet’s General Counsel, with a purchaser
+Copyright © 2026 Fortinet, Inc. All rights reserved. Fortinet®, FortiGate®, FortiCare® and FortiGuard®, and certain other marks are registered trademarks of Fortinet, Inc., and other Fortinet names herein may also be registered and/or common law trademarks of Fortinet. All other product or
+company names may be trademarks of their respective owners. Performance and other metrics contained herein were attained in internal lab tests under ideal conditions, and actual performance and other results may vary. Network variables, different network environments and other condi-
+tions may affect performance results. Nothing herein represents any binding commitment by Fortinet, and Fortinet disclaims all warranties, whether express or implied, except to the extent Fortinet enters a binding written contract, signed by Fortinet’s SVP Legal and above, with a purchaser
 that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any
 such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise
 revise this publication without notice, and the most current version of the publication shall be applicable.
-November 4, 2026 3:01 PM
-OT-OG-20250512-EN
+November 10, 2026 11:29 AM
+FGD-OG-R31-20261110
 
 
 **Table 3.1**
